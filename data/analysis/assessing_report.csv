@@ -1,0 +1,34 @@
+no,tabel,kolom,masalah,jumlah_baris,rencana_penanganan
+1,transactions,total_items,"angka tersimpan sebagai teks (mis. 'Rp 1.234.000', '3 item')",27,"ubah ke numerik dengan parser (hapus 'Rp', titik ribuan, satuan)"
+2,transactions,net_amount,"angka tersimpan sebagai teks (mis. 'Rp 1.234.000', '3 item')",83,"ubah ke numerik dengan parser (hapus 'Rp', titik ribuan, satuan)"
+3,transactions,(seluruh baris),baris duplikat persis,33,hapus duplikat (pertahankan 1)
+4,transactions,transaction_date,"format tanggal campur (YYYY-MM-DD, DD/MM/YYYY, DD-Mon-YYYY)",825,parse semua format menjadi tanggal baku YYYY-MM-DD
+5,transactions,branch,nama cabang tidak konsisten (18 variasi untuk 3 cabang),2830,petakan ke branch_id (BR01/BR02/BR03)
+6,transactions,customer_type,variasi penulisan jenis pelanggan,2830,normalisasi ke umum/rekanan/keluarga/pemerintah
+7,transactions,customer_type,nilai kosong,55,isi dari tabel pelanggan berdasarkan customer_id
+8,transactions,transaction_type,variasi penulisan jenis transaksi,2830,normalisasi ke retail/rekanan/pemerintah_inaproc
+9,transactions,discount_amount,nilai kosong,27,hitung ulang dari jumlah diskon detail transaksi
+10,transactions,gross_amount,tidak konsisten dengan net_amount + discount_amount (dugaan salah ketik/outlier),3,hitung ulang dari qty x harga satuan detail transaksi
+11,transaction_details,(seluruh baris),baris duplikat persis,44,hapus duplikat
+12,transaction_details,quantity,"angka tersimpan sebagai teks ('2 pcs', '3x')",84,parser angka
+13,transaction_details,quantity,bernilai negatif,7,"periksa dengan subtotal; jika subtotal positif, ubah ke nilai mutlak"
+14,transaction_details,unit_price,"berbeda dari harga jual master (rasio 10x, dugaan salah ketik)",10,ganti dengan harga jual master produk
+15,transaction_details,subtotal,nilai kosong,56,hitung ulang: qty x harga - diskon
+16,transaction_details,product_id,nilai kosong,28,pulihkan dari product_name_input (pencocokan nama + harga)
+17,transaction_details,transaction_id,foreign key yatim,4,rekonsiliasi dengan baris tetangga (detail_id berurutan) dan total transaksi
+18,products,category,variasi penulisan kategori (26 variasi untuk 8 kategori),396,normalisasi ke 8 kategori baku
+19,products,product_id,near-duplicate produk (id berakhiran -DUP),6,hapus baris -DUP setelah dibandingkan dengan produk asli
+20,products,brand,nilai kosong,15,pulihkan dari nama produk / daftar merek
+21,products,cost_price,nilai kosong,7,pulihkan dari cost_subtotal / quantity pada detail transaksi
+22,products,selling_price,tersimpan sebagai teks dengan titik ribuan,12,parser angka
+23,products,discount_percentage,tersimpan sebagai teks ('12%'),19,parser angka
+24,products,product_name,spasi ganda / huruf besar-kecil / typo,46,"rapikan spasi, kapitalisasi, koreksi token"
+25,inventory,(seluruh baris),baris duplikat persis,23,hapus duplikat
+26,inventory,stock_date,nilai kosong,23,isi dari inventory_id (yyyymm) menjadi akhir bulan
+27,inventory,stock_date,format tanggal campur,445,parser tanggal
+28,inventory,stock_in,tersimpan sebagai teks ('-' untuk nol),82,ubah '-' menjadi 0
+29,inventory,stock_out,bernilai negatif,6,hitung ulang dari jumlah quantity detail transaksi
+30,inventory,ending_stock,tidak sesuai rumus initial + in - out,21,hitung ulang dengan rumus
+31,customers,customer_id,near-duplicate pelanggan (id berakhiran huruf),3,gabungkan ke id asli
+32,customers,customer_type,nilai kosong,2,isi dari jenis pelanggan pada transaksi
+33,customers,customer_name,variasi penulisan nama,26,rapikan spasi dan kapitalisasi

@@ -1,0 +1,5 @@
+intent,deskripsi,contoh,jumlah_contoh
+tanya_harga,Menanyakan harga barang,harga oli yamalube matic berapa?,744
+tanya_diskon,Menanyakan diskon / nego / harga khusus,bisa diskon berapa kalau bengkel rekanan?,721
+cek_stok,Menanyakan ketersediaan / sisa stok di cabang,stok ban irc 80/90-17 ada di paye?,728
+lainnya,"Sapaan, jam buka, alamat, servis, pemesanan antar, dan pertanyaan di luar konteks usaha",siapa presiden indonesia,326

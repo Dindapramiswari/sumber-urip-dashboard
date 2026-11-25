@@ -1,0 +1,97 @@
+branch_id,category,week_start,forecast_units,model,branch_name
+BR01,Aki,2026-10-26,15.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Aksesori kendaraan,2026-10-26,17.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban mobil,2026-10-26,22.0,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban motor,2026-10-26,43.0,Rata-rata 4 minggu,Padang Kerta
+BR01,Oli,2026-10-26,301.0,Rata-rata 4 minggu,Padang Kerta
+BR01,Perlengkapan otomotif lainnya,2026-10-26,34.0,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part mobil,2026-10-26,41.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part motor,2026-10-26,145.2,Rata-rata 4 minggu,Padang Kerta
+BR02,Aki,2026-10-26,4.5,Rata-rata 4 minggu,Jalan Nenas
+BR02,Aksesori kendaraan,2026-10-26,8.2,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban mobil,2026-10-26,6.5,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban motor,2026-10-26,15.0,Rata-rata 4 minggu,Jalan Nenas
+BR02,Oli,2026-10-26,85.8,Rata-rata 4 minggu,Jalan Nenas
+BR02,Perlengkapan otomotif lainnya,2026-10-26,18.0,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part mobil,2026-10-26,16.0,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part motor,2026-10-26,46.5,Rata-rata 4 minggu,Jalan Nenas
+BR03,Aki,2026-10-26,8.2,Rata-rata 4 minggu,Paye
+BR03,Aksesori kendaraan,2026-10-26,15.5,Rata-rata 4 minggu,Paye
+BR03,Ban mobil,2026-10-26,20.8,Rata-rata 4 minggu,Paye
+BR03,Ban motor,2026-10-26,20.2,Rata-rata 4 minggu,Paye
+BR03,Oli,2026-10-26,167.0,Rata-rata 4 minggu,Paye
+BR03,Perlengkapan otomotif lainnya,2026-10-26,19.5,Rata-rata 4 minggu,Paye
+BR03,Spare part mobil,2026-10-26,22.0,Rata-rata 4 minggu,Paye
+BR03,Spare part motor,2026-10-26,91.5,Rata-rata 4 minggu,Paye
+BR01,Aki,2026-11-02,16.6,Rata-rata 4 minggu,Padang Kerta
+BR01,Aksesori kendaraan,2026-11-02,18.9,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban mobil,2026-11-02,19.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban motor,2026-11-02,43.0,Rata-rata 4 minggu,Padang Kerta
+BR01,Oli,2026-11-02,285.0,Rata-rata 4 minggu,Padang Kerta
+BR01,Perlengkapan otomotif lainnya,2026-11-02,35.8,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part mobil,2026-11-02,42.1,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part motor,2026-11-02,137.3,Rata-rata 4 minggu,Padang Kerta
+BR02,Aki,2026-11-02,5.1,Rata-rata 4 minggu,Jalan Nenas
+BR02,Aksesori kendaraan,2026-11-02,9.1,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban mobil,2026-11-02,7.1,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban motor,2026-11-02,15.2,Rata-rata 4 minggu,Jalan Nenas
+BR02,Oli,2026-11-02,92.9,Rata-rata 4 minggu,Jalan Nenas
+BR02,Perlengkapan otomotif lainnya,2026-11-02,16.0,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part mobil,2026-11-02,15.8,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part motor,2026-11-02,47.9,Rata-rata 4 minggu,Jalan Nenas
+BR03,Aki,2026-11-02,7.8,Rata-rata 4 minggu,Paye
+BR03,Aksesori kendaraan,2026-11-02,14.9,Rata-rata 4 minggu,Paye
+BR03,Ban mobil,2026-11-02,23.7,Rata-rata 4 minggu,Paye
+BR03,Ban motor,2026-11-02,18.8,Rata-rata 4 minggu,Paye
+BR03,Oli,2026-11-02,159.2,Rata-rata 4 minggu,Paye
+BR03,Perlengkapan otomotif lainnya,2026-11-02,18.6,Rata-rata 4 minggu,Paye
+BR03,Spare part mobil,2026-11-02,21.2,Rata-rata 4 minggu,Paye
+BR03,Spare part motor,2026-11-02,86.9,Rata-rata 4 minggu,Paye
+BR01,Aki,2026-11-09,15.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Aksesori kendaraan,2026-11-09,18.3,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban mobil,2026-11-09,17.4,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban motor,2026-11-09,44.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Oli,2026-11-09,296.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Perlengkapan otomotif lainnya,2026-11-09,36.4,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part mobil,2026-11-09,41.4,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part motor,2026-11-09,153.4,Rata-rata 4 minggu,Padang Kerta
+BR02,Aki,2026-11-09,4.2,Rata-rata 4 minggu,Jalan Nenas
+BR02,Aksesori kendaraan,2026-11-09,8.6,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban mobil,2026-11-09,4.9,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban motor,2026-11-09,13.8,Rata-rata 4 minggu,Jalan Nenas
+BR02,Oli,2026-11-09,88.7,Rata-rata 4 minggu,Jalan Nenas
+BR02,Perlengkapan otomotif lainnya,2026-11-09,15.8,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part mobil,2026-11-09,15.7,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part motor,2026-11-09,39.6,Rata-rata 4 minggu,Jalan Nenas
+BR03,Aki,2026-11-09,7.5,Rata-rata 4 minggu,Paye
+BR03,Aksesori kendaraan,2026-11-09,15.6,Rata-rata 4 minggu,Paye
+BR03,Ban mobil,2026-11-09,21.6,Rata-rata 4 minggu,Paye
+BR03,Ban motor,2026-11-09,19.5,Rata-rata 4 minggu,Paye
+BR03,Oli,2026-11-09,151.1,Rata-rata 4 minggu,Paye
+BR03,Perlengkapan otomotif lainnya,2026-11-09,18.8,Rata-rata 4 minggu,Paye
+BR03,Spare part mobil,2026-11-09,20.3,Rata-rata 4 minggu,Paye
+BR03,Spare part motor,2026-11-09,89.3,Rata-rata 4 minggu,Paye
+BR01,Aki,2026-11-16,15.9,Rata-rata 4 minggu,Padang Kerta
+BR01,Aksesori kendaraan,2026-11-16,18.9,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban mobil,2026-11-16,17.7,Rata-rata 4 minggu,Padang Kerta
+BR01,Ban motor,2026-11-16,43.6,Rata-rata 4 minggu,Padang Kerta
+BR01,Oli,2026-11-16,308.4,Rata-rata 4 minggu,Padang Kerta
+BR01,Perlengkapan otomotif lainnya,2026-11-16,35.0,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part mobil,2026-11-16,41.5,Rata-rata 4 minggu,Padang Kerta
+BR01,Spare part motor,2026-11-16,146.2,Rata-rata 4 minggu,Padang Kerta
+BR02,Aki,2026-11-16,4.7,Rata-rata 4 minggu,Jalan Nenas
+BR02,Aksesori kendaraan,2026-11-16,8.5,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban mobil,2026-11-16,6.1,Rata-rata 4 minggu,Jalan Nenas
+BR02,Ban motor,2026-11-16,14.3,Rata-rata 4 minggu,Jalan Nenas
+BR02,Oli,2026-11-16,96.1,Rata-rata 4 minggu,Jalan Nenas
+BR02,Perlengkapan otomotif lainnya,2026-11-16,17.7,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part mobil,2026-11-16,15.4,Rata-rata 4 minggu,Jalan Nenas
+BR02,Spare part motor,2026-11-16,43.2,Rata-rata 4 minggu,Jalan Nenas
+BR03,Aki,2026-11-16,7.1,Rata-rata 4 minggu,Paye
+BR03,Aksesori kendaraan,2026-11-16,15.0,Rata-rata 4 minggu,Paye
+BR03,Ban mobil,2026-11-16,22.0,Rata-rata 4 minggu,Paye
+BR03,Ban motor,2026-11-16,16.9,Rata-rata 4 minggu,Paye
+BR03,Oli,2026-11-16,158.1,Rata-rata 4 minggu,Paye
+BR03,Perlengkapan otomotif lainnya,2026-11-16,19.7,Rata-rata 4 minggu,Paye
+BR03,Spare part mobil,2026-11-16,21.9,Rata-rata 4 minggu,Paye
+BR03,Spare part motor,2026-11-16,85.4,Rata-rata 4 minggu,Paye

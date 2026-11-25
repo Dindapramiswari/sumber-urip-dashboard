@@ -1,0 +1,5 @@
+model,MAE,RMSE,WAPE_pct,terbaik
+Rata-rata 4 minggu,12.04,19.5,25.14,True
+Linear Regression (lag + seri),14.15,25.01,29.55,False
+Random Forest (lag + seri),15.0,26.32,31.32,False
+Naive (minggu lalu),18.32,32.55,38.24,False

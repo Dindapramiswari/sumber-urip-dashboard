@@ -1,0 +1,799 @@
+branch_id,branch_name,product_id,product_name,category,stok_akhir,minimum_stock,status_stok,stock_date
+BR01,Padang Kerta,ACC-0001,Spion Motor,Aksesori kendaraan,10,7,aman,2026-10-31
+BR01,Padang Kerta,ACC-0002,Handgrip,Aksesori kendaraan,5,2,aman,2026-10-31
+BR01,Padang Kerta,ACC-0005,Spakbor Depan,Aksesori kendaraan,15,6,aman,2026-10-31
+BR01,Padang Kerta,ACC-0007,Jok Motor,Aksesori kendaraan,6,5,aman,2026-10-31
+BR01,Padang Kerta,ACC-0008,Karet Mobil,Aksesori kendaraan,11,7,aman,2026-10-31
+BR01,Padang Kerta,ACC-0009,Sarung Jko Mobil,Aksesori kendaraan,9,4,aman,2026-10-31
+BR01,Padang Kerta,ACC-0010,Pewangi Mobil,Aksesori kendaraan,6,3,aman,2026-10-31
+BR01,Padang Kerta,ACC-0011,Holder HP Motor,Aksesori kendaraan,6,6,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,ACC-0012,Dashcam,Aksesori kendaraan,7,4,aman,2026-10-31
+BR01,Padang Kerta,ACC-0015,Sarung Stang,Aksesori kendaraan,12,6,aman,2026-10-31
+BR01,Padang Kerta,AKI-0003,Aki Yuasa Motor 12V 3.5Ah,Aki,4,2,aman,2026-10-31
+BR01,Padang Kerta,AKI-0004,Aki Yuasa Motor 12V 5Ah,Aki,3,4,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,AKI-0006,Aki Massiv Motor 12V 5Ah,Aki,7,4,aman,2026-10-31
+BR01,Padang Kerta,AKI-0007,Aki GS Astra Mobil 12V 45Ah,Aki,4,4,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,AKI-0008,Aki GS Astra Mobil 12V 55Ah,Aki,5,3,aman,2026-10-31
+BR01,Padang Kerta,AKI-0009,Aki Yuasa Mobil 12V 45Ah,Aki,11,5,aman,2026-10-31
+BR01,Padang Kerta,AKI-0010,Aki Yuasa Mobil 12V 65Ah,Aki,5,2,aman,2026-10-31
+BR01,Padang Kerta,AKI-0011,Aki Massiv Mobil 12V 55Ah,Aki,2,2,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,AKI-0012,Aki Incoe Mobil 12V 60Ah,Aki,6,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0001,Bridgestone 175/65R14,Ban mobil,6,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0002,GT Radial 175/65R14,Ban mobil,3,1,aman,2026-10-31
+BR01,Padang Kerta,BNC-0003,Dunlop 175/65R14,Ban mobil,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0004,Achilles 175/65R14,Ban mobil,12,5,aman,2026-10-31
+BR01,Padang Kerta,BNC-0005,Bridgestone 185/70R14,Ban mobil,6,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0006,GT Radial 185/70R14,Ban mobil,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0007,Dunlop 185/70R14,Ban mobil,5,3,aman,2026-10-31
+BR01,Padang Kerta,BNC-0008,Bridgestone 185/65R15,Ban mobil,6,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0009,GT Radial 185/65R15,Ban mobil,5,3,aman,2026-10-31
+BR01,Padang Kerta,BNC-0010,Dunlop 185/65R15,Ban mobil,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNC-0011,Achilles 185/65R15,Ban mobil,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0012,Bridgestone 195/65R15,Ban mobil,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNC-0013,GT Radial 195/65R15,Ban mobil,6,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0014,Achilles 195/65R15,Ban mobil,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNC-0015,Bridgestone 205/65R15,Ban mobil,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0016,Achilles 205/65R15,Ban mobil,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0017,Bridgestone 205/55R16,Ban mobil,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNC-0018,GT Radial 205/55R16,Ban mobil,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0019,Dunlop 205/55R16,Ban mobil,6,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0020,GT Radial 215/60R16,Ban mobil,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0021,Achilles 215/60R16,Ban mobil,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0022,Bridgestone 215/65R16,Ban mobil,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNC-0023,Dunlop 215/65R16,Ban mobil,7,5,aman,2026-10-31
+BR01,Padang Kerta,BNC-0027,Bridgestone 265/65R17,Ban mobil,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0028,GT Radial 265/65R17,Ban mobil,12,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0029,Dunlop 265/65R17,Ban mobil,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0030,Achilles 265/65R17,Ban mobil,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNC-0032,Bridgestone 195R15C,Ban mobil,14,5,aman,2026-10-31
+BR01,Padang Kerta,BNC-0033,Dunlop 195R15C,Ban mobil,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0001,IRC NF 59 70/90-14 Tubetype,Ban motor,5,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0002,IRC NF 67 70/90-14 Tubetype,Ban motor,11,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0003,IRC TR 70/90-14 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0004,IRC NR 82 80/80-14 Tubetype,Ban motor,13,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0005,IRC NR 73T 80/90-14 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0006,IRC NR 76 80/90-14 Tubetype,Ban motor,7,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0007,IRC SS 530 F 80/90-14 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0008,IRC TR 80/90-14 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0009,IRC GS 45 80/90-14 Tubetype,Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0010,IRC NR 76A 90/80-14 Tubetype,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0011,IRC NR 73T 90/90-14 Tubetype,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0012,IRC SS 530 R 90/90-14 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0013,IRC TR 90/90-14 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0014,IRC GS 45 90/90-14 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0016,IRC SS 560 100/80-14 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0017,IRC NR 72 70/90-16 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0018,IRC NR 72 80/90-16 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0019,IRC GP 22 90/100-16 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0020,IRC REBORN NR 87 60/80-17 Tubetype,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0021,IRC REBORN NR 87 70/80-17 Tubetype,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0022,IRC NF 35 70/90-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0023,IRC NF 63B 70/90-17 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0024,IRC NR 57M 70/90-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0025,IRC NR 69 70/90-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0026,IRC NR 72 70/90-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0029,IRC NR 41 80/90-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0031,IRC NR 69 80/90-17 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0032,IRC NR 72 80/90-17 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0033,IRC NR 73 80/90-17 Tubetype,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0035,IRC NR 80 80/90-17 Tubetype,Ban motor,12,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0036,IRC GP 210 80/100-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0037,IRC NF 25 80/100-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0038,IRC NR 72 90/90-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0039,IRC NR 82 90/90-17 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0040,IRC NR 82 100/70-17 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0041,IRC RX-01 F 100/80-17 Tubetype,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0042,IRC GP 210 100/90-17 Tubetype,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0043,IRC NR 25 100/90-17 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0044,IRC RX-01 F 110/70-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0045,IRC RX-01 R 120/70-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0046,IRC NR 57 80/90-18 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0049,IRC NR 25 100/90-18 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0050,IRC NR 65 100/90-18 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0051,IRC GP 21 70/100-19 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0052,IRC SP 2 350-8 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0053,IRC RV 300-10 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0055,IRC VS 350-10 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0056,IRC NF 3 225-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0057,IRC NR 72 225-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0058,IRC NF 40 250-17 Tubetype,Ban motor,9,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0060,IRC NF 6 250-17 Tubetype,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0061,IRC NR 6 250-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0062,IRC NR 72 250-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0063,IRC TR 250-17 Tubetype,Ban motor,9,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0064,IRC GS 45 250-17 Tubetype,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0066,IRC NR 60 275-17 Tubetype,Ban motor,4,5,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,BNM-0067,IRC NR 72 275-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0068,IRC SP 1H 275-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0069,IRC TR 275-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0070,IRC GS 45 275-17 Tubetype,Ban motor,5,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0071,IRC NR 25 300-17 Tubetype,Ban motor,6,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0073,IRC TR 300-17 Tubetype,Ban motor,9,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0074,IRC GS 45 300-17 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0076,IRC NR 2 250-18 Tubetype,Ban motor,3,3,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,BNM-0077,IRC TR 250-18 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0078,IRC NF 25 275-18 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0080,IRC NR 65 275-18 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0081,IRC TR 275-18 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0082,IRC GS 45 275-18 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0083,IRC NR 25 300-18 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0084,IRC NR 65 300-18 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0085,IRC TR 300-18 Tubetype,Ban motor,3,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0086,IRC GS 45 300-18 Tubetype,Ban motor,6,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0087,IRC TR 325-18 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0088,IRC TR 350-18 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0089,IRC GP 22 410-18 Tubetype,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0090,IRC TR 275-19 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0091,IRC GP 21 275-21 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0093,IRC MB 520 z 100/90-10 Tubeless,Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0094,IRC MB 520 z 90/90-12 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0095,IRC MB 86 100/90-12 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0096,IRC NR 82 100/90-12 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0097,IRC ECOTRAX NR 96 100/90-12 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0098,IRC ECOTRAX NR 96 100/80-12 Tubeless,Ban motor,2,3,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,BNM-0100,IRC MB 67 110/90-12 Tubeless,Ban motor,6,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0101,IRC NR 83 110/90-12 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0102,IRC ECOTRAX NR 96 110/90-12 Tubeless,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0104,IRC ECOTRAX NR 96 110/70-13 Tubeless,Ban motor,3,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0105,IRC EXATO NR 88 110/70-13 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0107,IRC EXATO NR 88 120/70-13 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0110,IRC SCT-007 130/70-13 Tubeless,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0111,IRC SS 560 R D 130/70-13 Tubeless,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0112,IRC EXATO NR 88 140/70-13 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0113,IRC ECOTRAX NR 96 70/90-14 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0114,IRC GP 5 70/90-14 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0115,IRC ENVIRO NR 91 70/90-14 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0116,IRC NR 82 80/80-14 Tubeless,Ban motor,5,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0117,IRC EXATO NR 88 80/80-14 Tubeless,Ban motor,9,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0118,IRC ECOTRAX NR 96 80/90-14 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0119,IRC GP 5 80/90-14 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0121,IRC ENVIRO NR 91 80/90-14 Tubeless,Ban motor,11,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0122,IRC SS-530R 80/90-14 Tubeless,Ban motor,5,5,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,BNM-0123,IRC NR 87Z 90/80-14 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0124,IRC EXATO NR 88 90/80-14 Tubeless,Ban motor,4,4,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,BNM-0125,IRC REBORN NR 87 90/80-14 Tubeless,Ban motor,9,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0126,IRC ECOTRAX NR 96 90/90-14 Tubeless,Ban motor,14,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0127,IRC GP 5 90/90-14 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0128,IRC NR 83 90/90-14 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0130,IRC SS-530R 90/90-14 Tubeless,Ban motor,8,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0131,IRC SS-560F 90/90-14 Tubeless,Ban motor,16,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0132,IRC NR 82 100/70-14 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0133,IRC GP 5 100/80-14 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0134,IRC NR 95 100/80-14 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0135,IRC REBORN NR 87 100/80-14 Tubeless,Ban motor,6,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0136,IRC SCT-006 100/80-14 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0137,IRC SCT-004 100/90-14 Tubeless,Ban motor,8,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0138,IRC SCT-006 110/70-14 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0140,IRC REBORN NR 87 110/80-14 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0141,IRC SCT-007 120/70-14 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0142,IRC SCT-005R 140/70-14 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0143,IRC ECOTRAX NR 96 70/90-17 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0144,IRC GP 5 70/90-17 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0146,IRC NR 92 70/90-17 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0147,IRC NR 93 70/90-17 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0148,IRC ENVIRO NR 91 70/90-17 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0149,IRC NR 80 70/90-17 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0150,IRC EXATO NR 88 80/80-17 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0151,IRC ECOTRAX NR 96 80/90-17 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0153,IRC NR 92 80/90-17 Tubeless,Ban motor,9,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0154,IRC NR 93 80/90-17 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0155,IRC NR 73S 80/90-17 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0156,IRC ENVIRO NR 91 80/90-17 Tubeless,Ban motor,5,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0157,IRC RX-01 F 80/90-17 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0158,IRC NR 80 80/90-17 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0159,IRC NF 25 80/100-17 Tubeless,Ban motor,5,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0160,IRC NF 67 90/80-17 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0161,IRC NF 66 90/80-17 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0162,IRC EXATO NR 88 90/80-17 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0163,IRC RX-01 R 90/80-17 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0164,IRC ECOTRAX NR 96 90/90-17 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0165,IRC ENVIRO NR 91 90/90-17 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0166,IRC EXATO NR 88 100/80-17 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0167,IRC NR 85 100/80-17 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0168,IRC RX-01 F 100/80-17 Tubeless,Ban motor,4,4,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,BNM-0169,IRC NR 25 100/90-17 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0170,IRC GP 211 110/70-17 Tubeless,Ban motor,5,5,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,BNM-0171,IRC EXATO NR 88 110/70-17 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0173,IRC NF 67 120/70-17 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0174,IRC NR 83 120/70-17 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0175,IRC EXATO ONR 88 120/70-17 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0177,IRC RX-01 R 130/70-17 Tubeless,Ban motor,7,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0178,IRC EXATO NR 88 130/70-17 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0179,IRC GP 211 140/70-17 Tubeless,Ban motor,5,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0180,IRC RX-01 R 140/70-17 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,BNM-0181,IRC EXATO NR 88 150/60-17 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0182,IRC Ban Dalam RIM 14 (70/90-14),Ban motor,6,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0183,IRC Ban Dalam RIM 14 (80/90-14),Ban motor,6,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0184,"IRC Ban Dalam RIM 14 (70/90, 80/80, 80/90-14 (250/275-14))",Ban motor,7,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0185,"IRC Ban Dalam RIM 14 (80/90, 90/80, 90/90-14 (275/300-14))",Ban motor,10,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0186,IRC Ban Dalam RIM 14 (300/360-14 (90/80-14)),Ban motor,13,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0187,IRC Ban Dalam RIM 14 (90/90-14 (100/80-14)),Ban motor,14,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0188,IRC Ban Dalam RIM 16 (70/90-16),Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0189,IRC Ban Dalam RIM 16 (80/90-16),Ban motor,4,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0191,IRC Ban Dalam RIM 8 (350-8),Ban motor,3,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0192,IRC Ban Dalam RIM 19 (250-19 (70/100-19)),Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0193,"IRC Ban Dalam RIM 19 (275/300-19 (80/100, 90/90-19))",Ban motor,3,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0194,IRC Ban Dalam RIM 19 (325/350-19 (100/90-19)),Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,BNM-0195,"IRC Ban Dalam RIM 17 (50/90, 60/80-17)",Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0196,IRC Ban Dalam RIM 17 (225/250-17 (70/90-17)),Ban motor,16,5,aman,2026-10-31
+BR01,Padang Kerta,BNM-0197,"IRC Ban Dalam RIM 17 (250/275-17 (70/90, 80/90-17))",Ban motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0198,IRC Ban Dalam RIM 17 (275-17 (80/90-17)),Ban motor,9,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0199,"IRC Ban Dalam RIM 17 (300/325-17 (90/90, 80/100, 100/70-17))",Ban motor,12,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0200,"IRC Ban Dalam RIM 17 (100/90, 110/80, 120/70-17)",Ban motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,BNM-0202,IRC Ban Dalam RIM 18 (275-18),Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0203,"IRC Ban Dalam RIM 18 (275/300-18 (80/100, 90/90-18))",Ban motor,3,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0204,"IRC Ban Dalam RIM 18 (325/350/400/410-18 (90/100, 100/90-18))",Ban motor,7,2,aman,2026-10-31
+BR01,Padang Kerta,BNM-0207,"IRC Ban Dalam RIM 21 (275/300-21 (80/100, 90/90-21))",Ban motor,2,1,aman,2026-10-31
+BR01,Padang Kerta,LNY-0001,Coolant 1 L,Perlengkapan otomotif lainnya,33,12,aman,2026-10-31
+BR01,Padang Kerta,LNY-0003,Pembersih Karburator,Perlengkapan otomotif lainnya,11,10,aman,2026-10-31
+BR01,Padang Kerta,LNY-0004,Gemuk/Grease 100 g,Perlengkapan otomotif lainnya,5,4,aman,2026-10-31
+BR01,Padang Kerta,LNY-0006,Cairan Pembersih Kaca,Perlengkapan otomotif lainnya,9,8,aman,2026-10-31
+BR01,Padang Kerta,LNY-0008,Kunci Busi,Perlengkapan otomotif lainnya,9,4,aman,2026-10-31
+BR01,Padang Kerta,LNY-0009,Pompa Ban Manual,Perlengkapan otomotif lainnya,1,9,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,LNY-0010,Tambal Ban Set,Perlengkapan otomotif lainnya,25,11,aman,2026-10-31
+BR01,Padang Kerta,LNY-0011,Air Aki 1 L,Perlengkapan otomotif lainnya,16,7,aman,2026-10-31
+BR01,Padang Kerta,LNY-0012,Dongkrak Botol 2T,Perlengkapan otomotif lainnya,12,10,aman,2026-10-31
+BR01,Padang Kerta,OLI-0001,Yamalube Matic 0.8 L,Oli,33,19,aman,2026-10-31
+BR01,Padang Kerta,OLI-0002,Yamalube Matic 1 L,Oli,23,16,aman,2026-10-31
+BR01,Padang Kerta,OLI-0003,Yamalube Gardan 120 ml,Oli,20,15,aman,2026-10-31
+BR01,Padang Kerta,OLI-0006,Federal Oil Matic 1 L,Oli,31,11,aman,2026-10-31
+BR01,Padang Kerta,OLI-0008,Federal Oil Gardan 120 ml,Oli,71,24,aman,2026-10-31
+BR01,Padang Kerta,OLI-0009,Federal Oil Full Synthetic 0.8 L,Oli,38,20,aman,2026-10-31
+BR01,Padang Kerta,OLI-0010,Honda MPX Matic 1 L,Oli,23,20,aman,2026-10-31
+BR01,Padang Kerta,OLI-0012,Honda MPX Gardan 120 ml,Oli,35,16,aman,2026-10-31
+BR01,Padang Kerta,OLI-0013,Honda MPX Full Synthetic 0.8 L,Oli,24,17,aman,2026-10-31
+BR01,Padang Kerta,OLI-0014,Shell Advance Matic 0.8 L,Oli,62,21,aman,2026-10-31
+BR01,Padang Kerta,OLI-0015,Shell Advance Matic 1 L,Oli,61,21,aman,2026-10-31
+BR01,Padang Kerta,OLI-0016,Shell Advance Bebek/Sport 1 L,Oli,54,18,aman,2026-10-31
+BR01,Padang Kerta,OLI-0017,Shell Advance Gardan 120 ml,Oli,27,10,aman,2026-10-31
+BR01,Padang Kerta,OLI-0018,Shell Advance Full Synthetic 0.8 L,Oli,33,15,aman,2026-10-31
+BR01,Padang Kerta,OLI-0021,Castrol Power1 Gardan 120 ml,Oli,35,23,aman,2026-10-31
+BR01,Padang Kerta,OLI-0022,Castrol Power1 Full Synthetic 0.8 L,Oli,70,22,aman,2026-10-31
+BR01,Padang Kerta,OLI-0023,Pertamina Enduro Matic 0.8 L,Oli,35,23,aman,2026-10-31
+BR01,Padang Kerta,OLI-0024,TOP 1 Matic 0.8 L,Oli,15,14,aman,2026-10-31
+BR01,Padang Kerta,OLI-0025,TOP 1 Bebek/Sport 1 L,Oli,29,24,aman,2026-10-31
+BR01,Padang Kerta,OLI-0026,TOP 1 Gardan 120 ml,Oli,61,22,aman,2026-10-31
+BR01,Padang Kerta,OLI-0027,TOP 1 Full Synthetic 0.8 L,Oli,19,7,aman,2026-10-31
+BR01,Padang Kerta,OLI-0028,Shell Helix Mineral 1 L,Oli,14,7,aman,2026-10-31
+BR01,Padang Kerta,OLI-0029,Shell Helix Semi Sintetis 1 L,Oli,36,12,aman,2026-10-31
+BR01,Padang Kerta,OLI-0030,Shell Helix Diesel 6 L,Oli,42,20,aman,2026-10-31
+BR01,Padang Kerta,OLI-0031,Castrol Magnatec Mineral 1 L,Oli,29,10,aman,2026-10-31
+BR01,Padang Kerta,OLI-0034,Pertamina Fastron Mineral 1 L,Oli,28,12,aman,2026-10-31
+BR01,Padang Kerta,OLI-0035,Pertamina Fastron Semi Sintetis 1 L,Oli,24,22,aman,2026-10-31
+BR01,Padang Kerta,OLI-0036,Pertamina Fastron Full Sintetis 4 L,Oli,27,16,aman,2026-10-31
+BR01,Padang Kerta,OLI-0037,Pertamina Fastron Diesel 6 L,Oli,31,19,aman,2026-10-31
+BR01,Padang Kerta,OLI-0038,TOP 1 Mineral 1 L,Oli,10,12,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,OLI-0039,TOP 1 Semi Sintetis 1 L,Oli,9,6,aman,2026-10-31
+BR01,Padang Kerta,OLI-0041,TOP 1 Full Sintetis 4 L,Oli,16,9,aman,2026-10-31
+BR01,Padang Kerta,OLI-0042,TOP 1 Diesel 6 L,Oli,15,11,aman,2026-10-31
+BR01,Padang Kerta,OLI-0043,Total Quartz Mineral 1 L,Oli,23,18,aman,2026-10-31
+BR01,Padang Kerta,OLI-0044,Total Quartz Semi Sintetis 1 L,Oli,22,8,aman,2026-10-31
+BR01,Padang Kerta,OLI-0045,Total Quartz Semi Sintetis 4 L,Oli,35,18,aman,2026-10-31
+BR01,Padang Kerta,SPC-0001,Kampas Rem Belakang Mobil NGK,Spare part mobil,9,3,aman,2026-10-31
+BR01,Padang Kerta,SPC-0002,Kampas Rem Belakang Mobil Aftermarket,Spare part mobil,12,4,aman,2026-10-31
+BR01,Padang Kerta,SPC-0004,Filter Oli Mobil Bosch,Spare part mobil,5,5,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,SPC-0005,Filter Oli Mobil Aftermarket,Spare part mobil,9,7,aman,2026-10-31
+BR01,Padang Kerta,SPC-0006,Filter Udara Mobil Denso,Spare part mobil,7,4,aman,2026-10-31
+BR01,Padang Kerta,SPC-0007,Filter Udara Mobil Bosch,Spare part mobil,9,7,aman,2026-10-31
+BR01,Padang Kerta,SPC-0008,Filter Bensin Mobil NGK,Spare part mobil,4,5,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,SPC-0009,Busi (set 4) Mobil Bosch,Spare part mobil,13,5,aman,2026-10-31
+BR01,Padang Kerta,SPC-0010,Wiper Blade Mobil Denso,Spare part mobil,7,4,aman,2026-10-31
+BR01,Padang Kerta,SPC-0011,Shockbreaker Depan Mobil Bosch,Spare part mobil,16,6,aman,2026-10-31
+BR01,Padang Kerta,SPC-0012,Shockbreaker Depan Mobil Aftermarket,Spare part mobil,14,7,aman,2026-10-31
+BR01,Padang Kerta,SPC-0013,Tie Rod End Mobil Bosch,Spare part mobil,3,6,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,SPC-0014,Fan Belt Mobil Bosch,Spare part mobil,9,5,aman,2026-10-31
+BR01,Padang Kerta,SPC-0015,Fan Belt Mobil Aftermarket,Spare part mobil,5,2,aman,2026-10-31
+BR01,Padang Kerta,SPC-0017,Selang Radiator Mobil Denso,Spare part mobil,6,4,aman,2026-10-31
+BR01,Padang Kerta,SPC-0018,Selang Radiator Mobil NGK,Spare part mobil,7,3,aman,2026-10-31
+BR01,Padang Kerta,SPC-0019,Water Pump Mobil Denso,Spare part mobil,9,6,aman,2026-10-31
+BR01,Padang Kerta,SPC-0020,Water Pump Mobil NGK,Spare part mobil,9,6,aman,2026-10-31
+BR01,Padang Kerta,SPC-0022,Kampas Kopling Set Mobil Aftermarket,Spare part mobil,0,2,habis,2026-10-31
+BR01,Padang Kerta,SPM-0001,Kampas Rem Depan Motor Yamaha Genuine Parts,Spare part motor,5,8,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,SPM-0002,Kampas Rem Depan Motor Honda Genuine Parts,Spare part motor,7,6,aman,2026-10-31
+BR01,Padang Kerta,SPM-0003,Kampas Rem Belakang Motor Yamaha Genuine Parts,Spare part motor,16,10,aman,2026-10-31
+BR01,Padang Kerta,SPM-0004,Kampas Rem Belakang Motor Honda Genuine Parts,Spare part motor,15,8,aman,2026-10-31
+BR01,Padang Kerta,SPM-0005,Kampas Rem Belakang Motor Aftermarket,Spare part motor,8,4,aman,2026-10-31
+BR01,Padang Kerta,SPM-0006,Kampas Rem Cakram Motor Yamaha Genuine Parts,Spare part motor,19,9,aman,2026-10-31
+BR01,Padang Kerta,SPM-0008,Busi Motor Federal Parts,Spare part motor,18,7,aman,2026-10-31
+BR01,Padang Kerta,SPM-0009,Busi Motor Yamaha Genuine Parts,Spare part motor,15,7,aman,2026-10-31
+BR01,Padang Kerta,SPM-0010,Busi Motor Honda Genuine Parts,Spare part motor,4,3,aman,2026-10-31
+BR01,Padang Kerta,SPM-0011,Busi Motor Aftermarket,Spare part motor,6,5,aman,2026-10-31
+BR01,Padang Kerta,SPM-0012,Filter Udara Motor Yamaha Genuine Parts,Spare part motor,8,7,aman,2026-10-31
+BR01,Padang Kerta,SPM-0014,Roller Set Motor Federal Parts,Spare part motor,2,6,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,SPM-0015,Roller Set Motor Yamaha Genuine Parts,Spare part motor,7,6,aman,2026-10-31
+BR01,Padang Kerta,SPM-0017,Kampas Ganda CVT Motor Yamaha Genuine Parts,Spare part motor,12,5,aman,2026-10-31
+BR01,Padang Kerta,SPM-0018,Rantai Roda Motor Yamaha Genuine Parts,Spare part motor,6,3,aman,2026-10-31
+BR01,Padang Kerta,SPM-0019,Rantai Roda Motor Aftermarket,Spare part motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,SPM-0020,Bohlam Lampu Depan Motor Federal Parts,Spare part motor,7,4,aman,2026-10-31
+BR01,Padang Kerta,SPM-0021,Bohlam Lampu Depan Motor Aftermarket,Spare part motor,18,9,aman,2026-10-31
+BR01,Padang Kerta,SPM-0025,Kabel Gas Motor Honda Genuine Parts,Spare part motor,10,4,aman,2026-10-31
+BR01,Padang Kerta,SPM-0026,Kabel Kopling Motor Federal Parts,Spare part motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,SPM-0027,Kabel Kopling Motor Yamaha Genuine Parts,Spare part motor,13,8,aman,2026-10-31
+BR01,Padang Kerta,SPM-0029,Seal Shock Motor Honda Genuine Parts,Spare part motor,8,5,aman,2026-10-31
+BR01,Padang Kerta,SPM-0030,Shock Belakang Motor Federal Parts,Spare part motor,8,5,aman,2026-10-31
+BR01,Padang Kerta,SPM-0031,Shock Belakang Motor Yamaha Genuine Parts,Spare part motor,10,9,aman,2026-10-31
+BR01,Padang Kerta,SPM-0032,Shock Belakang Motor Honda Genuine Parts,Spare part motor,25,8,aman,2026-10-31
+BR01,Padang Kerta,SPM-0033,Piringan Cakram Motor Yamaha Genuine Parts,Spare part motor,18,8,aman,2026-10-31
+BR01,Padang Kerta,SPM-0034,Filter Oli Motor Federal Parts,Spare part motor,6,6,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,SPM-0035,Kampas Kopling Set Motor Federal Parts,Spare part motor,5,4,aman,2026-10-31
+BR01,Padang Kerta,SPM-0036,Kampas Kopling Set Motor Honda Genuine Parts,Spare part motor,10,9,aman,2026-10-31
+BR01,Padang Kerta,SPM-0037,Karet Footstep Motor Federal Parts,Spare part motor,16,9,aman,2026-10-31
+BR01,Padang Kerta,SPM-0039,Karet Footstep Motor Honda Genuine Parts,Spare part motor,4,7,menipis (<= minimum),2026-10-31
+BR01,Padang Kerta,SPM-0040,Karet Footstep Motor Aftermarket,Spare part motor,21,8,aman,2026-10-31
+BR01,Padang Kerta,SPM-0041,Handle Rem Motor Federal Parts,Spare part motor,12,5,aman,2026-10-31
+BR01,Padang Kerta,SPM-0042,Kabel Speedometer Motor Federal Parts,Spare part motor,7,3,aman,2026-10-31
+BR01,Padang Kerta,SPM-0043,Kabel Speedometer Motor Yamaha Genuine Parts,Spare part motor,18,9,aman,2026-10-31
+BR01,Padang Kerta,SPM-0044,Kabel Speedometer Motor Honda Genuine Parts,Spare part motor,13,7,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0001,Spion Motor,Aksesori kendaraan,13,7,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0002,Handgrip,Aksesori kendaraan,5,2,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0005,Spakbor Depan,Aksesori kendaraan,9,6,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0006,Stiker Striping,Aksesori kendaraan,7,5,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0007,Jok Motor,Aksesori kendaraan,14,5,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0008,Karet Mobil,Aksesori kendaraan,14,7,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0011,Holder HP Motor,Aksesori kendaraan,11,6,aman,2026-10-31
+BR02,Jalan Nenas,ACC-0015,Sarung Stang,Aksesori kendaraan,14,6,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0003,Aki Yuasa Motor 12V 3.5Ah,Aki,6,2,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0004,Aki Yuasa Motor 12V 5Ah,Aki,6,4,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0006,Aki Massiv Motor 12V 5Ah,Aki,8,4,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0007,Aki GS Astra Mobil 12V 45Ah,Aki,6,4,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0008,Aki GS Astra Mobil 12V 55Ah,Aki,5,3,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0009,Aki Yuasa Mobil 12V 45Ah,Aki,9,5,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0010,Aki Yuasa Mobil 12V 65Ah,Aki,5,2,aman,2026-10-31
+BR02,Jalan Nenas,AKI-0012,Aki Incoe Mobil 12V 60Ah,Aki,5,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0001,Bridgestone 175/65R14,Ban mobil,6,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0002,GT Radial 175/65R14,Ban mobil,0,1,habis,2026-10-31
+BR02,Jalan Nenas,BNC-0004,Achilles 175/65R14,Ban mobil,8,5,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0006,GT Radial 185/70R14,Ban mobil,12,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0008,Bridgestone 185/65R15,Ban mobil,3,2,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0011,Achilles 185/65R15,Ban mobil,6,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0012,Bridgestone 195/65R15,Ban mobil,8,3,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0015,Bridgestone 205/65R15,Ban mobil,3,2,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0016,Achilles 205/65R15,Ban mobil,4,2,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0018,GT Radial 205/55R16,Ban mobil,10,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0019,Dunlop 205/55R16,Ban mobil,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0023,Dunlop 215/65R16,Ban mobil,6,5,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0025,Bridgestone 225/65R17,Ban mobil,9,3,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0026,Dunlop 225/65R17,Ban mobil,8,3,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0027,Bridgestone 265/65R17,Ban mobil,12,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0028,GT Radial 265/65R17,Ban mobil,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0029,Dunlop 265/65R17,Ban mobil,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0030,Achilles 265/65R17,Ban mobil,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNC-0032,Bridgestone 195R15C,Ban mobil,8,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0002,IRC NF 67 70/90-14 Tubetype,Ban motor,13,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0004,IRC NR 82 80/80-14 Tubetype,Ban motor,6,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0005,IRC NR 73T 80/90-14 Tubetype,Ban motor,11,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0006,IRC NR 76 80/90-14 Tubetype,Ban motor,9,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0007,IRC SS 530 F 80/90-14 Tubetype,Ban motor,6,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0008,IRC TR 80/90-14 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0009,IRC GS 45 80/90-14 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0011,IRC NR 73T 90/90-14 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0012,IRC SS 530 R 90/90-14 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0015,IRC NR 82 100/70-14 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0017,IRC NR 72 70/90-16 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0020,IRC REBORN NR 87 60/80-17 Tubetype,Ban motor,12,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0021,IRC REBORN NR 87 70/80-17 Tubetype,Ban motor,12,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0024,IRC NR 57M 70/90-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0025,IRC NR 69 70/90-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0026,IRC NR 72 70/90-17 Tubetype,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0029,IRC NR 41 80/90-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0030,IRC NR 57M 80/90-17 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0033,IRC NR 73 80/90-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0035,IRC NR 80 80/90-17 Tubetype,Ban motor,14,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0036,IRC GP 210 80/100-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0037,IRC NF 25 80/100-17 Tubetype,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0038,IRC NR 72 90/90-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0039,IRC NR 82 90/90-17 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0041,IRC RX-01 F 100/80-17 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0042,IRC GP 210 100/90-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0045,IRC RX-01 R 120/70-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0047,IRC NR 57 90/90-18 Tubetype,Ban motor,8,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0048,IRC NR 72 90/90-18 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0050,IRC NR 65 100/90-18 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0051,IRC GP 21 70/100-19 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0055,IRC VS 350-10 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0056,IRC NF 3 225-17 Tubetype,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0057,IRC NR 72 225-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0059,IRC NF 47 250-17 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0060,IRC NF 6 250-17 Tubetype,Ban motor,4,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0061,IRC NR 6 250-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0064,IRC GS 45 250-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0066,IRC NR 60 275-17 Tubetype,Ban motor,12,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0067,IRC NR 72 275-17 Tubetype,Ban motor,14,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0069,IRC TR 275-17 Tubetype,Ban motor,5,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0071,IRC NR 25 300-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0072,IRC SP 1M 300-17 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0073,IRC TR 300-17 Tubetype,Ban motor,11,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0075,IRC NF 2 250-18 Tubetype,Ban motor,3,1,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0077,IRC TR 250-18 Tubetype,Ban motor,6,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0079,IRC NR 25 275-18 Tubetype,Ban motor,6,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0082,IRC GS 45 275-18 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0085,IRC TR 300-18 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0087,IRC TR 325-18 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0089,IRC GP 22 410-18 Tubetype,Ban motor,5,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0090,IRC TR 275-19 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0091,IRC GP 21 275-21 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0096,IRC NR 82 100/90-12 Tubeless,Ban motor,5,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0101,IRC NR 83 110/90-12 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0103,IRC SCT-001 130/80-12 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0104,IRC ECOTRAX NR 96 110/70-13 Tubeless,Ban motor,2,1,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0105,IRC EXATO NR 88 110/70-13 Tubeless,Ban motor,6,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0109,IRC EXATO NR 88 130/70-13 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0111,IRC SS 560 R D 130/70-13 Tubeless,Ban motor,6,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0114,IRC GP 5 70/90-14 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0115,IRC ENVIRO NR 91 70/90-14 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0117,IRC EXATO NR 88 80/80-14 Tubeless,Ban motor,7,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0118,IRC ECOTRAX NR 96 80/90-14 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0119,IRC GP 5 80/90-14 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0121,IRC ENVIRO NR 91 80/90-14 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0122,IRC SS-530R 80/90-14 Tubeless,Ban motor,11,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0123,IRC NR 87Z 90/80-14 Tubeless,Ban motor,9,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0124,IRC EXATO NR 88 90/80-14 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0126,IRC ECOTRAX NR 96 90/90-14 Tubeless,Ban motor,10,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0127,IRC GP 5 90/90-14 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0128,IRC NR 83 90/90-14 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0129,IRC ENVIRO NR 91 90/90-14 Tubeless,Ban motor,9,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0130,IRC SS-530R 90/90-14 Tubeless,Ban motor,17,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0131,IRC SS-560F 90/90-14 Tubeless,Ban motor,6,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0133,IRC GP 5 100/80-14 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0134,IRC NR 95 100/80-14 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0135,IRC REBORN NR 87 100/80-14 Tubeless,Ban motor,11,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0137,IRC SCT-004 100/90-14 Tubeless,Ban motor,10,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0138,IRC SCT-006 110/70-14 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0141,IRC SCT-007 120/70-14 Tubeless,Ban motor,13,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0143,IRC ECOTRAX NR 96 70/90-17 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0144,IRC GP 5 70/90-17 Tubeless,Ban motor,11,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0145,IRC NF 67 70/90-17 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0146,IRC NR 92 70/90-17 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0147,IRC NR 93 70/90-17 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0148,IRC ENVIRO NR 91 70/90-17 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0151,IRC ECOTRAX NR 96 80/90-17 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0154,IRC NR 93 80/90-17 Tubeless,Ban motor,11,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0157,IRC RX-01 F 80/90-17 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0158,IRC NR 80 80/90-17 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0159,IRC NF 25 80/100-17 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0161,IRC NF 66 90/80-17 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0162,IRC EXATO NR 88 90/80-17 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0164,IRC ECOTRAX NR 96 90/90-17 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0165,IRC ENVIRO NR 91 90/90-17 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0168,IRC RX-01 F 100/80-17 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0169,IRC NR 25 100/90-17 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0170,IRC GP 211 110/70-17 Tubeless,Ban motor,10,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0171,IRC EXATO NR 88 110/70-17 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0173,IRC NF 67 120/70-17 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0180,IRC RX-01 R 140/70-17 Tubeless,Ban motor,5,3,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0181,IRC EXATO NR 88 150/60-17 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0182,IRC Ban Dalam RIM 14 (70/90-14),Ban motor,13,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0183,IRC Ban Dalam RIM 14 (80/90-14),Ban motor,5,5,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,BNM-0184,"IRC Ban Dalam RIM 14 (70/90, 80/80, 80/90-14 (250/275-14))",Ban motor,13,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0185,"IRC Ban Dalam RIM 14 (80/90, 90/80, 90/90-14 (275/300-14))",Ban motor,10,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0186,IRC Ban Dalam RIM 14 (300/360-14 (90/80-14)),Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0187,IRC Ban Dalam RIM 14 (90/90-14 (100/80-14)),Ban motor,10,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0195,"IRC Ban Dalam RIM 17 (50/90, 60/80-17)",Ban motor,8,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0196,IRC Ban Dalam RIM 17 (225/250-17 (70/90-17)),Ban motor,10,5,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0197,"IRC Ban Dalam RIM 17 (250/275-17 (70/90, 80/90-17))",Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0198,IRC Ban Dalam RIM 17 (275-17 (80/90-17)),Ban motor,13,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0199,"IRC Ban Dalam RIM 17 (300/325-17 (90/90, 80/100, 100/70-17))",Ban motor,7,4,aman,2026-10-31
+BR02,Jalan Nenas,BNM-0200,"IRC Ban Dalam RIM 17 (100/90, 110/80, 120/70-17)",Ban motor,5,4,aman,2026-10-31
+BR02,Jalan Nenas,LNY-0001,Coolant 1 L,Perlengkapan otomotif lainnya,6,12,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,LNY-0003,Pembersih Karburator,Perlengkapan otomotif lainnya,11,10,aman,2026-10-31
+BR02,Jalan Nenas,LNY-0005,Pelumas Rantai,Perlengkapan otomotif lainnya,13,5,aman,2026-10-31
+BR02,Jalan Nenas,LNY-0007,Lakban Listrik,Perlengkapan otomotif lainnya,5,6,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,LNY-0008,Kunci Busi,Perlengkapan otomotif lainnya,6,4,aman,2026-10-31
+BR02,Jalan Nenas,LNY-0009,Pompa Ban Manual,Perlengkapan otomotif lainnya,10,9,aman,2026-10-31
+BR02,Jalan Nenas,LNY-0010,Tambal Ban Set,Perlengkapan otomotif lainnya,17,11,aman,2026-10-31
+BR02,Jalan Nenas,LNY-0011,Air Aki 1 L,Perlengkapan otomotif lainnya,9,7,aman,2026-10-31
+BR02,Jalan Nenas,LNY-0012,Dongkrak Botol 2T,Perlengkapan otomotif lainnya,13,10,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0001,Yamalube Matic 0.8 L,Oli,40,19,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0002,Yamalube Matic 1 L,Oli,22,16,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0004,Yamalube Full Synthetic 0.8 L,Oli,15,13,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0008,Federal Oil Gardan 120 ml,Oli,44,24,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0009,Federal Oil Full Synthetic 0.8 L,Oli,31,20,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0010,Honda MPX Matic 1 L,Oli,25,20,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0014,Shell Advance Matic 0.8 L,Oli,58,21,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0015,Shell Advance Matic 1 L,Oli,64,21,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0016,Shell Advance Bebek/Sport 1 L,Oli,38,18,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0021,Castrol Power1 Gardan 120 ml,Oli,25,23,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0022,Castrol Power1 Full Synthetic 0.8 L,Oli,36,22,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0023,Pertamina Enduro Matic 0.8 L,Oli,43,23,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0024,TOP 1 Matic 0.8 L,Oli,19,14,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0025,TOP 1 Bebek/Sport 1 L,Oli,54,24,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0026,TOP 1 Gardan 120 ml,Oli,42,22,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0030,Shell Helix Diesel 6 L,Oli,23,20,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0031,Castrol Magnatec Mineral 1 L,Oli,19,10,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0035,Pertamina Fastron Semi Sintetis 1 L,Oli,30,22,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0037,Pertamina Fastron Diesel 6 L,Oli,12,19,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,OLI-0039,TOP 1 Semi Sintetis 1 L,Oli,7,6,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0040,TOP 1 Semi Sintetis 4 L,Oli,24,14,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0043,Total Quartz Mineral 1 L,Oli,20,18,aman,2026-10-31
+BR02,Jalan Nenas,OLI-0044,Total Quartz Semi Sintetis 1 L,Oli,10,8,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0002,Kampas Rem Belakang Mobil Aftermarket,Spare part mobil,5,4,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0003,Filter Oli Mobil Denso,Spare part mobil,6,4,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0004,Filter Oli Mobil Bosch,Spare part mobil,15,5,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0005,Filter Oli Mobil Aftermarket,Spare part mobil,16,7,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0007,Filter Udara Mobil Bosch,Spare part mobil,9,7,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0009,Busi (set 4) Mobil Bosch,Spare part mobil,13,5,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0010,Wiper Blade Mobil Denso,Spare part mobil,11,4,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0011,Shockbreaker Depan Mobil Bosch,Spare part mobil,7,6,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0012,Shockbreaker Depan Mobil Aftermarket,Spare part mobil,11,7,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0013,Tie Rod End Mobil Bosch,Spare part mobil,10,6,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0016,Air Radiator (1 L) Mobil NGK,Spare part mobil,8,3,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0018,Selang Radiator Mobil NGK,Spare part mobil,7,3,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0019,Water Pump Mobil Denso,Spare part mobil,10,6,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0020,Water Pump Mobil NGK,Spare part mobil,12,6,aman,2026-10-31
+BR02,Jalan Nenas,SPC-0021,Water Pump Mobil Aftermarket,Spare part mobil,6,3,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0001,Kampas Rem Depan Motor Yamaha Genuine Parts,Spare part motor,15,8,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0003,Kampas Rem Belakang Motor Yamaha Genuine Parts,Spare part motor,2,10,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,SPM-0004,Kampas Rem Belakang Motor Honda Genuine Parts,Spare part motor,13,8,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0006,Kampas Rem Cakram Motor Yamaha Genuine Parts,Spare part motor,13,9,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0009,Busi Motor Yamaha Genuine Parts,Spare part motor,18,7,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0011,Busi Motor Aftermarket,Spare part motor,0,5,habis,2026-10-31
+BR02,Jalan Nenas,SPM-0013,V-Belt Motor Federal Parts,Spare part motor,7,3,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0017,Kampas Ganda CVT Motor Yamaha Genuine Parts,Spare part motor,7,5,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0018,Rantai Roda Motor Yamaha Genuine Parts,Spare part motor,7,3,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0019,Rantai Roda Motor Aftermarket,Spare part motor,8,3,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0021,Bohlam Lampu Depan Motor Aftermarket,Spare part motor,16,9,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0026,Kabel Kopling Motor Federal Parts,Spare part motor,7,3,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0027,Kabel Kopling Motor Yamaha Genuine Parts,Spare part motor,11,8,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0028,Kabel Kopling Motor Honda Genuine Parts,Spare part motor,15,6,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0031,Shock Belakang Motor Yamaha Genuine Parts,Spare part motor,18,9,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0032,Shock Belakang Motor Honda Genuine Parts,Spare part motor,18,8,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0033,Piringan Cakram Motor Yamaha Genuine Parts,Spare part motor,18,8,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0036,Kampas Kopling Set Motor Honda Genuine Parts,Spare part motor,7,9,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,SPM-0037,Karet Footstep Motor Federal Parts,Spare part motor,17,9,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0039,Karet Footstep Motor Honda Genuine Parts,Spare part motor,2,7,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,SPM-0040,Karet Footstep Motor Aftermarket,Spare part motor,7,8,menipis (<= minimum),2026-10-31
+BR02,Jalan Nenas,SPM-0043,Kabel Speedometer Motor Yamaha Genuine Parts,Spare part motor,14,9,aman,2026-10-31
+BR02,Jalan Nenas,SPM-0044,Kabel Speedometer Motor Honda Genuine Parts,Spare part motor,9,7,aman,2026-10-31
+BR03,Paye,ACC-0001,Spion Motor,Aksesori kendaraan,11,7,aman,2026-10-31
+BR03,Paye,ACC-0003,Cover Motor,Aksesori kendaraan,8,3,aman,2026-10-31
+BR03,Paye,ACC-0004,Lampu LED Motor,Aksesori kendaraan,7,3,aman,2026-10-31
+BR03,Paye,ACC-0005,Spakbor Depan,Aksesori kendaraan,16,6,aman,2026-10-31
+BR03,Paye,ACC-0006,Stiker Striping,Aksesori kendaraan,11,5,aman,2026-10-31
+BR03,Paye,ACC-0007,Jok Motor,Aksesori kendaraan,10,5,aman,2026-10-31
+BR03,Paye,ACC-0008,Karet Mobil,Aksesori kendaraan,18,7,aman,2026-10-31
+BR03,Paye,ACC-0011,Holder HP Motor,Aksesori kendaraan,15,6,aman,2026-10-31
+BR03,Paye,ACC-0012,Dashcam,Aksesori kendaraan,4,4,menipis (<= minimum),2026-10-31
+BR03,Paye,ACC-0013,Klakson Motor,Aksesori kendaraan,11,4,aman,2026-10-31
+BR03,Paye,ACC-0014,Antena Mobil,Aksesori kendaraan,6,5,aman,2026-10-31
+BR03,Paye,ACC-0015,Sarung Stang,Aksesori kendaraan,6,6,menipis (<= minimum),2026-10-31
+BR03,Paye,AKI-0001,Aki GS Astra Motor 12V 3.5Ah,Aki,5,3,aman,2026-10-31
+BR03,Paye,AKI-0002,Aki GS Astra Motor 12V 5Ah,Aki,6,3,aman,2026-10-31
+BR03,Paye,AKI-0003,Aki Yuasa Motor 12V 3.5Ah,Aki,3,2,aman,2026-10-31
+BR03,Paye,AKI-0004,Aki Yuasa Motor 12V 5Ah,Aki,5,4,aman,2026-10-31
+BR03,Paye,AKI-0005,Aki Massiv Motor 12V 3.5Ah,Aki,4,2,aman,2026-10-31
+BR03,Paye,AKI-0006,Aki Massiv Motor 12V 5Ah,Aki,11,4,aman,2026-10-31
+BR03,Paye,AKI-0007,Aki GS Astra Mobil 12V 45Ah,Aki,7,4,aman,2026-10-31
+BR03,Paye,AKI-0008,Aki GS Astra Mobil 12V 55Ah,Aki,4,3,aman,2026-10-31
+BR03,Paye,AKI-0009,Aki Yuasa Mobil 12V 45Ah,Aki,13,5,aman,2026-10-31
+BR03,Paye,AKI-0012,Aki Incoe Mobil 12V 60Ah,Aki,7,4,aman,2026-10-31
+BR03,Paye,BNC-0001,Bridgestone 175/65R14,Ban mobil,12,4,aman,2026-10-31
+BR03,Paye,BNC-0003,Dunlop 175/65R14,Ban mobil,4,2,aman,2026-10-31
+BR03,Paye,BNC-0004,Achilles 175/65R14,Ban mobil,10,5,aman,2026-10-31
+BR03,Paye,BNC-0006,GT Radial 185/70R14,Ban mobil,10,4,aman,2026-10-31
+BR03,Paye,BNC-0007,Dunlop 185/70R14,Ban mobil,7,3,aman,2026-10-31
+BR03,Paye,BNC-0009,GT Radial 185/65R15,Ban mobil,6,3,aman,2026-10-31
+BR03,Paye,BNC-0011,Achilles 185/65R15,Ban mobil,6,4,aman,2026-10-31
+BR03,Paye,BNC-0015,Bridgestone 205/65R15,Ban mobil,5,2,aman,2026-10-31
+BR03,Paye,BNC-0018,GT Radial 205/55R16,Ban mobil,1,4,menipis (<= minimum),2026-10-31
+BR03,Paye,BNC-0019,Dunlop 205/55R16,Ban mobil,8,4,aman,2026-10-31
+BR03,Paye,BNC-0021,Achilles 215/60R16,Ban mobil,6,2,aman,2026-10-31
+BR03,Paye,BNC-0023,Dunlop 215/65R16,Ban mobil,10,5,aman,2026-10-31
+BR03,Paye,BNC-0024,Achilles 215/65R16,Ban mobil,5,3,aman,2026-10-31
+BR03,Paye,BNC-0026,Dunlop 225/65R17,Ban mobil,6,3,aman,2026-10-31
+BR03,Paye,BNC-0027,Bridgestone 265/65R17,Ban mobil,3,4,menipis (<= minimum),2026-10-31
+BR03,Paye,BNC-0028,GT Radial 265/65R17,Ban mobil,10,4,aman,2026-10-31
+BR03,Paye,BNC-0029,Dunlop 265/65R17,Ban mobil,7,4,aman,2026-10-31
+BR03,Paye,BNC-0030,Achilles 265/65R17,Ban mobil,11,4,aman,2026-10-31
+BR03,Paye,BNC-0031,GT Radial 185R14C,Ban mobil,5,3,aman,2026-10-31
+BR03,Paye,BNC-0032,Bridgestone 195R15C,Ban mobil,9,5,aman,2026-10-31
+BR03,Paye,BNM-0001,IRC NF 59 70/90-14 Tubetype,Ban motor,4,3,aman,2026-10-31
+BR03,Paye,BNM-0002,IRC NF 67 70/90-14 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0004,IRC NR 82 80/80-14 Tubetype,Ban motor,9,5,aman,2026-10-31
+BR03,Paye,BNM-0005,IRC NR 73T 80/90-14 Tubetype,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0006,IRC NR 76 80/90-14 Tubetype,Ban motor,13,5,aman,2026-10-31
+BR03,Paye,BNM-0007,IRC SS 530 F 80/90-14 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR03,Paye,BNM-0008,IRC TR 80/90-14 Tubetype,Ban motor,11,4,aman,2026-10-31
+BR03,Paye,BNM-0009,IRC GS 45 80/90-14 Tubetype,Ban motor,7,4,aman,2026-10-31
+BR03,Paye,BNM-0011,IRC NR 73T 90/90-14 Tubetype,Ban motor,7,4,aman,2026-10-31
+BR03,Paye,BNM-0012,IRC SS 530 R 90/90-14 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0017,IRC NR 72 70/90-16 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR03,Paye,BNM-0018,IRC NR 72 80/90-16 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR03,Paye,BNM-0020,IRC REBORN NR 87 60/80-17 Tubetype,Ban motor,13,4,aman,2026-10-31
+BR03,Paye,BNM-0021,IRC REBORN NR 87 70/80-17 Tubetype,Ban motor,12,4,aman,2026-10-31
+BR03,Paye,BNM-0022,IRC NF 35 70/90-17 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR03,Paye,BNM-0023,IRC NF 63B 70/90-17 Tubetype,Ban motor,7,3,aman,2026-10-31
+BR03,Paye,BNM-0024,IRC NR 57M 70/90-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR03,Paye,BNM-0025,IRC NR 69 70/90-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0026,IRC NR 72 70/90-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0027,IRC NR 73 70/90-17 Tubetype,Ban motor,9,3,aman,2026-10-31
+BR03,Paye,BNM-0028,IRC NR 80 70/90-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR03,Paye,BNM-0029,IRC NR 41 80/90-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0030,IRC NR 57M 80/90-17 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0033,IRC NR 73 80/90-17 Tubetype,Ban motor,13,4,aman,2026-10-31
+BR03,Paye,BNM-0034,IRC NR 78Y 80/90-17 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0035,IRC NR 80 80/90-17 Tubetype,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0036,IRC GP 210 80/100-17 Tubetype,Ban motor,7,4,aman,2026-10-31
+BR03,Paye,BNM-0037,IRC NF 25 80/100-17 Tubetype,Ban motor,11,4,aman,2026-10-31
+BR03,Paye,BNM-0038,IRC NR 72 90/90-17 Tubetype,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0039,IRC NR 82 90/90-17 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR03,Paye,BNM-0043,IRC NR 25 100/90-17 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0044,IRC RX-01 F 110/70-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR03,Paye,BNM-0045,IRC RX-01 R 120/70-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0049,IRC NR 25 100/90-18 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0050,IRC NR 65 100/90-18 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0051,IRC GP 21 70/100-19 Tubetype,Ban motor,2,1,aman,2026-10-31
+BR03,Paye,BNM-0054,IRC MB 520 350-10 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR03,Paye,BNM-0055,IRC VS 350-10 Tubetype,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0056,IRC NF 3 225-17 Tubetype,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0057,IRC NR 72 225-17 Tubetype,Ban motor,11,4,aman,2026-10-31
+BR03,Paye,BNM-0059,IRC NF 47 250-17 Tubetype,Ban motor,7,2,aman,2026-10-31
+BR03,Paye,BNM-0061,IRC NR 6 250-17 Tubetype,Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0064,IRC GS 45 250-17 Tubetype,Ban motor,12,4,aman,2026-10-31
+BR03,Paye,BNM-0065,IRC NR 25 275-17 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR03,Paye,BNM-0066,IRC NR 60 275-17 Tubetype,Ban motor,6,5,aman,2026-10-31
+BR03,Paye,BNM-0067,IRC NR 72 275-17 Tubetype,Ban motor,8,4,aman,2026-10-31
+BR03,Paye,BNM-0069,IRC TR 275-17 Tubetype,Ban motor,5,4,aman,2026-10-31
+BR03,Paye,BNM-0070,IRC GS 45 275-17 Tubetype,Ban motor,5,3,aman,2026-10-31
+BR03,Paye,BNM-0071,IRC NR 25 300-17 Tubetype,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0073,IRC TR 300-17 Tubetype,Ban motor,11,5,aman,2026-10-31
+BR03,Paye,BNM-0074,IRC GS 45 300-17 Tubetype,Ban motor,5,2,aman,2026-10-31
+BR03,Paye,BNM-0076,IRC NR 2 250-18 Tubetype,Ban motor,4,3,aman,2026-10-31
+BR03,Paye,BNM-0077,IRC TR 250-18 Tubetype,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0084,IRC NR 65 300-18 Tubetype,Ban motor,6,3,aman,2026-10-31
+BR03,Paye,BNM-0087,IRC TR 325-18 Tubetype,Ban motor,7,2,aman,2026-10-31
+BR03,Paye,BNM-0088,IRC TR 350-18 Tubetype,Ban motor,8,3,aman,2026-10-31
+BR03,Paye,BNM-0089,IRC GP 22 410-18 Tubetype,Ban motor,4,3,aman,2026-10-31
+BR03,Paye,BNM-0092,IRC TR 275-21 Tubetype,Ban motor,3,1,aman,2026-10-31
+BR03,Paye,BNM-0093,IRC MB 520 z 100/90-10 Tubeless,Ban motor,2,1,aman,2026-10-31
+BR03,Paye,BNM-0097,IRC ECOTRAX NR 96 100/90-12 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0099,IRC SCT-001 110/70-12 Tubeless,Ban motor,5,3,aman,2026-10-31
+BR03,Paye,BNM-0100,IRC MB 67 110/90-12 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0101,IRC NR 83 110/90-12 Tubeless,Ban motor,5,3,aman,2026-10-31
+BR03,Paye,BNM-0103,IRC SCT-001 130/80-12 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR03,Paye,BNM-0106,IRC SS 570 F D 110/70-13 Tubeless,Ban motor,3,1,aman,2026-10-31
+BR03,Paye,BNM-0108,IRC ECOTRAX NR 96 120/70-13 Tubeless,Ban motor,3,1,aman,2026-10-31
+BR03,Paye,BNM-0114,IRC GP 5 70/90-14 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0115,IRC ENVIRO NR 91 70/90-14 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR03,Paye,BNM-0117,IRC EXATO NR 88 80/80-14 Tubeless,Ban motor,11,5,aman,2026-10-31
+BR03,Paye,BNM-0118,IRC ECOTRAX NR 96 80/90-14 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR03,Paye,BNM-0120,IRC NF 66 80/90-14 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR03,Paye,BNM-0121,IRC ENVIRO NR 91 80/90-14 Tubeless,Ban motor,8,4,aman,2026-10-31
+BR03,Paye,BNM-0122,IRC SS-530R 80/90-14 Tubeless,Ban motor,14,5,aman,2026-10-31
+BR03,Paye,BNM-0124,IRC EXATO NR 88 90/80-14 Tubeless,Ban motor,12,4,aman,2026-10-31
+BR03,Paye,BNM-0125,IRC REBORN NR 87 90/80-14 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR03,Paye,BNM-0126,IRC ECOTRAX NR 96 90/90-14 Tubeless,Ban motor,9,5,aman,2026-10-31
+BR03,Paye,BNM-0127,IRC GP 5 90/90-14 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0128,IRC NR 83 90/90-14 Tubeless,Ban motor,12,4,aman,2026-10-31
+BR03,Paye,BNM-0129,IRC ENVIRO NR 91 90/90-14 Tubeless,Ban motor,4,3,aman,2026-10-31
+BR03,Paye,BNM-0130,IRC SS-530R 90/90-14 Tubeless,Ban motor,6,5,aman,2026-10-31
+BR03,Paye,BNM-0131,IRC SS-560F 90/90-14 Tubeless,Ban motor,12,5,aman,2026-10-31
+BR03,Paye,BNM-0132,IRC NR 82 100/70-14 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR03,Paye,BNM-0133,IRC GP 5 100/80-14 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0134,IRC NR 95 100/80-14 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0135,IRC REBORN NR 87 100/80-14 Tubeless,Ban motor,12,5,aman,2026-10-31
+BR03,Paye,BNM-0137,IRC SCT-004 100/90-14 Tubeless,Ban motor,10,5,aman,2026-10-31
+BR03,Paye,BNM-0138,IRC SCT-006 110/70-14 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR03,Paye,BNM-0139,IRC SCT-005F 110/80-14 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0141,IRC SCT-007 120/70-14 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0143,IRC ECOTRAX NR 96 70/90-17 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0144,IRC GP 5 70/90-17 Tubeless,Ban motor,11,4,aman,2026-10-31
+BR03,Paye,BNM-0147,IRC NR 93 70/90-17 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0148,IRC ENVIRO NR 91 70/90-17 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0150,IRC EXATO NR 88 80/80-17 Tubeless,Ban motor,6,3,aman,2026-10-31
+BR03,Paye,BNM-0151,IRC ECOTRAX NR 96 80/90-17 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR03,Paye,BNM-0152,IRC GP 5 80/90-17 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0154,IRC NR 93 80/90-17 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0157,IRC RX-01 F 80/90-17 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR03,Paye,BNM-0158,IRC NR 80 80/90-17 Tubeless,Ban motor,7,4,aman,2026-10-31
+BR03,Paye,BNM-0160,IRC NF 67 90/80-17 Tubeless,Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0161,IRC NF 66 90/80-17 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0164,IRC ECOTRAX NR 96 90/90-17 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR03,Paye,BNM-0165,IRC ENVIRO NR 91 90/90-17 Tubeless,Ban motor,10,4,aman,2026-10-31
+BR03,Paye,BNM-0167,IRC NR 85 100/80-17 Tubeless,Ban motor,8,3,aman,2026-10-31
+BR03,Paye,BNM-0168,IRC RX-01 F 100/80-17 Tubeless,Ban motor,5,4,aman,2026-10-31
+BR03,Paye,BNM-0169,IRC NR 25 100/90-17 Tubeless,Ban motor,12,4,aman,2026-10-31
+BR03,Paye,BNM-0170,IRC GP 211 110/70-17 Tubeless,Ban motor,10,5,aman,2026-10-31
+BR03,Paye,BNM-0171,IRC EXATO NR 88 110/70-17 Tubeless,Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0172,IRC RX-01 F 110/70-17 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0173,IRC NF 67 120/70-17 Tubeless,Ban motor,11,4,aman,2026-10-31
+BR03,Paye,BNM-0176,IRC RX-01 R 120/70-17 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0177,IRC RX-01 R 130/70-17 Tubeless,Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0178,IRC EXATO NR 88 130/70-17 Tubeless,Ban motor,7,2,aman,2026-10-31
+BR03,Paye,BNM-0180,IRC RX-01 R 140/70-17 Tubeless,Ban motor,7,3,aman,2026-10-31
+BR03,Paye,BNM-0181,IRC EXATO NR 88 150/60-17 Tubeless,Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0182,IRC Ban Dalam RIM 14 (70/90-14),Ban motor,10,5,aman,2026-10-31
+BR03,Paye,BNM-0183,IRC Ban Dalam RIM 14 (80/90-14),Ban motor,13,5,aman,2026-10-31
+BR03,Paye,BNM-0184,"IRC Ban Dalam RIM 14 (70/90, 80/80, 80/90-14 (250/275-14))",Ban motor,15,5,aman,2026-10-31
+BR03,Paye,BNM-0185,"IRC Ban Dalam RIM 14 (80/90, 90/80, 90/90-14 (275/300-14))",Ban motor,8,5,aman,2026-10-31
+BR03,Paye,BNM-0186,IRC Ban Dalam RIM 14 (300/360-14 (90/80-14)),Ban motor,8,4,aman,2026-10-31
+BR03,Paye,BNM-0187,IRC Ban Dalam RIM 14 (90/90-14 (100/80-14)),Ban motor,15,5,aman,2026-10-31
+BR03,Paye,BNM-0190,IRC Ban Dalam RIM 16 (90/100-16),Ban motor,4,2,aman,2026-10-31
+BR03,Paye,BNM-0195,"IRC Ban Dalam RIM 17 (50/90, 60/80-17)",Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0196,IRC Ban Dalam RIM 17 (225/250-17 (70/90-17)),Ban motor,9,5,aman,2026-10-31
+BR03,Paye,BNM-0197,"IRC Ban Dalam RIM 17 (250/275-17 (70/90, 80/90-17))",Ban motor,7,4,aman,2026-10-31
+BR03,Paye,BNM-0198,IRC Ban Dalam RIM 17 (275-17 (80/90-17)),Ban motor,9,4,aman,2026-10-31
+BR03,Paye,BNM-0199,"IRC Ban Dalam RIM 17 (300/325-17 (90/90, 80/100, 100/70-17))",Ban motor,6,4,aman,2026-10-31
+BR03,Paye,BNM-0200,"IRC Ban Dalam RIM 17 (100/90, 110/80, 120/70-17)",Ban motor,8,4,aman,2026-10-31
+BR03,Paye,BNM-0201,IRC Ban Dalam RIM 18 (225/250-18),Ban motor,6,2,aman,2026-10-31
+BR03,Paye,BNM-0205,IRC Ban Dalam RIM 10 (300-10),Ban motor,5,2,aman,2026-10-31
+BR03,Paye,BNM-0206,IRC Ban Dalam RIM 10 (350/400-10),Ban motor,3,2,aman,2026-10-31
+BR03,Paye,BNM-0207,"IRC Ban Dalam RIM 21 (275/300-21 (80/100, 90/90-21))",Ban motor,2,1,aman,2026-10-31
+BR03,Paye,LNY-0001,Coolant 1 L,Perlengkapan otomotif lainnya,30,12,aman,2026-10-31
+BR03,Paye,LNY-0002,Minyak Rem DOT 3 (250 ml),Perlengkapan otomotif lainnya,12,8,aman,2026-10-31
+BR03,Paye,LNY-0003,Pembersih Karburator,Perlengkapan otomotif lainnya,17,10,aman,2026-10-31
+BR03,Paye,LNY-0005,Pelumas Rantai,Perlengkapan otomotif lainnya,12,5,aman,2026-10-31
+BR03,Paye,LNY-0006,Cairan Pembersih Kaca,Perlengkapan otomotif lainnya,9,8,aman,2026-10-31
+BR03,Paye,LNY-0009,Pompa Ban Manual,Perlengkapan otomotif lainnya,7,9,menipis (<= minimum),2026-10-31
+BR03,Paye,LNY-0010,Tambal Ban Set,Perlengkapan otomotif lainnya,21,11,aman,2026-10-31
+BR03,Paye,LNY-0012,Dongkrak Botol 2T,Perlengkapan otomotif lainnya,25,10,aman,2026-10-31
+BR03,Paye,OLI-0001,Yamalube Matic 0.8 L,Oli,24,19,aman,2026-10-31
+BR03,Paye,OLI-0002,Yamalube Matic 1 L,Oli,42,16,aman,2026-10-31
+BR03,Paye,OLI-0005,Federal Oil Matic 0.8 L,Oli,30,17,aman,2026-10-31
+BR03,Paye,OLI-0006,Federal Oil Matic 1 L,Oli,28,11,aman,2026-10-31
+BR03,Paye,OLI-0007,Federal Oil Bebek/Sport 1 L,Oli,18,9,aman,2026-10-31
+BR03,Paye,OLI-0008,Federal Oil Gardan 120 ml,Oli,35,24,aman,2026-10-31
+BR03,Paye,OLI-0009,Federal Oil Full Synthetic 0.8 L,Oli,26,20,aman,2026-10-31
+BR03,Paye,OLI-0010,Honda MPX Matic 1 L,Oli,49,20,aman,2026-10-31
+BR03,Paye,OLI-0011,Honda MPX Bebek/Sport 1 L,Oli,35,13,aman,2026-10-31
+BR03,Paye,OLI-0014,Shell Advance Matic 0.8 L,Oli,46,21,aman,2026-10-31
+BR03,Paye,OLI-0015,Shell Advance Matic 1 L,Oli,60,21,aman,2026-10-31
+BR03,Paye,OLI-0016,Shell Advance Bebek/Sport 1 L,Oli,31,18,aman,2026-10-31
+BR03,Paye,OLI-0019,Castrol Power1 Matic 1 L,Oli,16,8,aman,2026-10-31
+BR03,Paye,OLI-0020,Castrol Power1 Bebek/Sport 1 L,Oli,13,8,aman,2026-10-31
+BR03,Paye,OLI-0021,Castrol Power1 Gardan 120 ml,Oli,30,23,aman,2026-10-31
+BR03,Paye,OLI-0022,Castrol Power1 Full Synthetic 0.8 L,Oli,39,22,aman,2026-10-31
+BR03,Paye,OLI-0023,Pertamina Enduro Matic 0.8 L,Oli,40,23,aman,2026-10-31
+BR03,Paye,OLI-0024,TOP 1 Matic 0.8 L,Oli,38,14,aman,2026-10-31
+BR03,Paye,OLI-0025,TOP 1 Bebek/Sport 1 L,Oli,66,24,aman,2026-10-31
+BR03,Paye,OLI-0026,TOP 1 Gardan 120 ml,Oli,39,22,aman,2026-10-31
+BR03,Paye,OLI-0030,Shell Helix Diesel 6 L,Oli,34,20,aman,2026-10-31
+BR03,Paye,OLI-0032,Castrol Magnatec Full Sintetis 4 L,Oli,17,14,aman,2026-10-31
+BR03,Paye,OLI-0033,Castrol Magnatec Diesel 6 L,Oli,17,10,aman,2026-10-31
+BR03,Paye,OLI-0035,Pertamina Fastron Semi Sintetis 1 L,Oli,59,22,aman,2026-10-31
+BR03,Paye,OLI-0036,Pertamina Fastron Full Sintetis 4 L,Oli,39,16,aman,2026-10-31
+BR03,Paye,OLI-0037,Pertamina Fastron Diesel 6 L,Oli,37,19,aman,2026-10-31
+BR03,Paye,OLI-0040,TOP 1 Semi Sintetis 4 L,Oli,17,14,aman,2026-10-31
+BR03,Paye,OLI-0043,Total Quartz Mineral 1 L,Oli,20,18,aman,2026-10-31
+BR03,Paye,OLI-0044,Total Quartz Semi Sintetis 1 L,Oli,20,8,aman,2026-10-31
+BR03,Paye,SPC-0004,Filter Oli Mobil Bosch,Spare part mobil,2,5,menipis (<= minimum),2026-10-31
+BR03,Paye,SPC-0005,Filter Oli Mobil Aftermarket,Spare part mobil,15,7,aman,2026-10-31
+BR03,Paye,SPC-0006,Filter Udara Mobil Denso,Spare part mobil,3,4,menipis (<= minimum),2026-10-31
+BR03,Paye,SPC-0007,Filter Udara Mobil Bosch,Spare part mobil,12,7,aman,2026-10-31
+BR03,Paye,SPC-0011,Shockbreaker Depan Mobil Bosch,Spare part mobil,9,6,aman,2026-10-31
+BR03,Paye,SPC-0012,Shockbreaker Depan Mobil Aftermarket,Spare part mobil,21,7,aman,2026-10-31
+BR03,Paye,SPC-0013,Tie Rod End Mobil Bosch,Spare part mobil,13,6,aman,2026-10-31
+BR03,Paye,SPC-0019,Water Pump Mobil Denso,Spare part mobil,12,6,aman,2026-10-31
+BR03,Paye,SPC-0020,Water Pump Mobil NGK,Spare part mobil,9,6,aman,2026-10-31
+BR03,Paye,SPM-0001,Kampas Rem Depan Motor Yamaha Genuine Parts,Spare part motor,12,8,aman,2026-10-31
+BR03,Paye,SPM-0003,Kampas Rem Belakang Motor Yamaha Genuine Parts,Spare part motor,28,10,aman,2026-10-31
+BR03,Paye,SPM-0004,Kampas Rem Belakang Motor Honda Genuine Parts,Spare part motor,23,8,aman,2026-10-31
+BR03,Paye,SPM-0005,Kampas Rem Belakang Motor Aftermarket,Spare part motor,5,4,aman,2026-10-31
+BR03,Paye,SPM-0006,Kampas Rem Cakram Motor Yamaha Genuine Parts,Spare part motor,21,9,aman,2026-10-31
+BR03,Paye,SPM-0007,Kampas Rem Cakram Motor Honda Genuine Parts,Spare part motor,11,4,aman,2026-10-31
+BR03,Paye,SPM-0008,Busi Motor Federal Parts,Spare part motor,14,7,aman,2026-10-31
+BR03,Paye,SPM-0009,Busi Motor Yamaha Genuine Parts,Spare part motor,9,7,aman,2026-10-31
+BR03,Paye,SPM-0012,Filter Udara Motor Yamaha Genuine Parts,Spare part motor,14,7,aman,2026-10-31
+BR03,Paye,SPM-0013,V-Belt Motor Federal Parts,Spare part motor,6,3,aman,2026-10-31
+BR03,Paye,SPM-0014,Roller Set Motor Federal Parts,Spare part motor,13,6,aman,2026-10-31
+BR03,Paye,SPM-0015,Roller Set Motor Yamaha Genuine Parts,Spare part motor,10,6,aman,2026-10-31
+BR03,Paye,SPM-0016,Roller Set Motor Aftermarket,Spare part motor,12,6,aman,2026-10-31
+BR03,Paye,SPM-0019,Rantai Roda Motor Aftermarket,Spare part motor,4,3,aman,2026-10-31
+BR03,Paye,SPM-0021,Bohlam Lampu Depan Motor Aftermarket,Spare part motor,13,9,aman,2026-10-31
+BR03,Paye,SPM-0022,Lampu Sein Motor Yamaha Genuine Parts,Spare part motor,12,6,aman,2026-10-31
+BR03,Paye,SPM-0023,Lampu Sein Motor Aftermarket,Spare part motor,5,4,aman,2026-10-31
+BR03,Paye,SPM-0024,Kabel Gas Motor Yamaha Genuine Parts,Spare part motor,10,7,aman,2026-10-31
+BR03,Paye,SPM-0025,Kabel Gas Motor Honda Genuine Parts,Spare part motor,9,4,aman,2026-10-31
+BR03,Paye,SPM-0026,Kabel Kopling Motor Federal Parts,Spare part motor,8,3,aman,2026-10-31
+BR03,Paye,SPM-0027,Kabel Kopling Motor Yamaha Genuine Parts,Spare part motor,25,8,aman,2026-10-31
+BR03,Paye,SPM-0031,Shock Belakang Motor Yamaha Genuine Parts,Spare part motor,21,9,aman,2026-10-31
+BR03,Paye,SPM-0032,Shock Belakang Motor Honda Genuine Parts,Spare part motor,24,8,aman,2026-10-31
+BR03,Paye,SPM-0033,Piringan Cakram Motor Yamaha Genuine Parts,Spare part motor,15,8,aman,2026-10-31
+BR03,Paye,SPM-0034,Filter Oli Motor Federal Parts,Spare part motor,12,6,aman,2026-10-31
+BR03,Paye,SPM-0036,Kampas Kopling Set Motor Honda Genuine Parts,Spare part motor,14,9,aman,2026-10-31
+BR03,Paye,SPM-0037,Karet Footstep Motor Federal Parts,Spare part motor,13,9,aman,2026-10-31
+BR03,Paye,SPM-0038,Karet Footstep Motor Yamaha Genuine Parts,Spare part motor,11,5,aman,2026-10-31
+BR03,Paye,SPM-0039,Karet Footstep Motor Honda Genuine Parts,Spare part motor,14,7,aman,2026-10-31
+BR03,Paye,SPM-0040,Karet Footstep Motor Aftermarket,Spare part motor,16,8,aman,2026-10-31
+BR03,Paye,SPM-0042,Kabel Speedometer Motor Federal Parts,Spare part motor,8,3,aman,2026-10-31
+BR03,Paye,SPM-0043,Kabel Speedometer Motor Yamaha Genuine Parts,Spare part motor,20,9,aman,2026-10-31
+BR03,Paye,SPM-0044,Kabel Speedometer Motor Honda Genuine Parts,Spare part motor,16,7,aman,2026-10-31

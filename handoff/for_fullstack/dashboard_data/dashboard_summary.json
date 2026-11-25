@@ -1,0 +1,2056 @@
+{
+ "meta": {
+  "data_source": "synthetic",
+  "catatan": "DATA SINTETIS untuk demonstrasi; bukan data operasional nyata Sumber Urip.",
+  "periode": [
+   "2026-08-01",
+   "2026-10-31"
+  ],
+  "tanggal_data_stok": "2026-10-31"
+ },
+ "kpi": {
+  "periode_awal": "2026-08-01",
+  "periode_akhir": "2026-10-31",
+  "jumlah_transaksi": 2797,
+  "unit_terjual": 14628,
+  "omzet_kotor": 2636655000,
+  "total_diskon": 244718800,
+  "omzet_bersih": 2391936200,
+  "laba_kotor": 357811300,
+  "margin_laba_kotor_pct": 14.96,
+  "diskon_efektif_pct": 9.28,
+  "rata2_nilai_transaksi": 855179,
+  "total_fee_rekanan": 41096400,
+  "produk_stok_menipis_atau_habis": 38,
+  "sumber_data": "synthetic"
+ },
+ "penjualan_per_kategori": [
+  {
+   "category": "Oli",
+   "omzet_bersih": 722222400,
+   "omzet_kotor": 800402500,
+   "unit_terjual": 6709,
+   "jumlah_baris": 1633,
+   "share_omzet_pct": 30.2
+  },
+  {
+   "category": "Ban mobil",
+   "omzet_bersih": 477609000,
+   "omzet_kotor": 505070000,
+   "unit_terjual": 531,
+   "jumlah_baris": 180,
+   "share_omzet_pct": 20.0
+  },
+  {
+   "category": "Ban motor",
+   "omzet_bersih": 287169600,
+   "omzet_kotor": 307184500,
+   "unit_terjual": 1064,
+   "jumlah_baris": 781,
+   "share_omzet_pct": 12.0
+  },
+  {
+   "category": "Spare part motor",
+   "omzet_bersih": 267806000,
+   "omzet_kotor": 322542500,
+   "unit_terjual": 3539,
+   "jumlah_baris": 1430,
+   "share_omzet_pct": 11.2
+  },
+  {
+   "category": "Spare part mobil",
+   "omzet_bersih": 251800600,
+   "omzet_kotor": 299720000,
+   "unit_terjual": 984,
+   "jumlah_baris": 403,
+   "share_omzet_pct": 10.5
+  },
+  {
+   "category": "Aki",
+   "omzet_bersih": 241401500,
+   "omzet_kotor": 254120000,
+   "unit_terjual": 388,
+   "jumlah_baris": 305,
+   "share_omzet_pct": 10.1
+  },
+  {
+   "category": "Aksesori kendaraan",
+   "omzet_bersih": 83896100,
+   "omzet_kotor": 85651500,
+   "unit_terjual": 500,
+   "jumlah_baris": 385,
+   "share_omzet_pct": 3.5
+  },
+  {
+   "category": "Perlengkapan otomotif lainnya",
+   "omzet_bersih": 60031000,
+   "omzet_kotor": 61964000,
+   "unit_terjual": 913,
+   "jumlah_baris": 429,
+   "share_omzet_pct": 2.5
+  }
+ ],
+ "penjualan_per_cabang_bulan": [
+  {
+   "branch_id": "BR01",
+   "month": "2026-08",
+   "jumlah_transaksi": 444,
+   "omzet_bersih": 384045500,
+   "laba_kotor": 56814000,
+   "diskon": 40237000,
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "month": "2026-09",
+   "jumlah_transaksi": 395,
+   "omzet_bersih": 310109200,
+   "laba_kotor": 45787300,
+   "diskon": 33579300,
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "month": "2026-10",
+   "jumlah_transaksi": 492,
+   "omzet_bersih": 418907600,
+   "laba_kotor": 62161600,
+   "diskon": 42676900,
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR02",
+   "month": "2026-08",
+   "jumlah_transaksi": 204,
+   "omzet_bersih": 177580500,
+   "laba_kotor": 27886000,
+   "diskon": 17283500,
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "month": "2026-09",
+   "jumlah_transaksi": 173,
+   "omzet_bersih": 119845800,
+   "laba_kotor": 18697200,
+   "diskon": 12450700,
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "month": "2026-10",
+   "jumlah_transaksi": 204,
+   "omzet_bersih": 182597800,
+   "laba_kotor": 25653000,
+   "diskon": 20193200,
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR03",
+   "month": "2026-08",
+   "jumlah_transaksi": 295,
+   "omzet_bersih": 236812600,
+   "laba_kotor": 37017700,
+   "diskon": 22661400,
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "month": "2026-09",
+   "jumlah_transaksi": 301,
+   "omzet_bersih": 253104400,
+   "laba_kotor": 38337400,
+   "diskon": 27186600,
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "month": "2026-10",
+   "jumlah_transaksi": 289,
+   "omzet_bersih": 308932800,
+   "laba_kotor": 45457100,
+   "diskon": 28450200,
+   "branch_name": "Paye"
+  }
+ ],
+ "produk_teratas": [
+  {
+   "product_id": "OLI-0030",
+   "product_name": "Shell Helix Diesel 6 L",
+   "category": "Oli",
+   "unit_terjual": 267.0,
+   "omzet_bersih": 113551000.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "OLI-0037",
+   "product_name": "Pertamina Fastron Diesel 6 L",
+   "category": "Oli",
+   "unit_terjual": 251.0,
+   "omzet_bersih": 79469300.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "OLI-0036",
+   "product_name": "Pertamina Fastron Full Sintetis 4 L",
+   "category": "Oli",
+   "unit_terjual": 150.0,
+   "omzet_bersih": 66742500.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "SPC-0011",
+   "product_name": "Shockbreaker Depan Mobil Bosch",
+   "category": "Spare part mobil",
+   "unit_terjual": 79.0,
+   "omzet_bersih": 55972200.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "SPM-0032",
+   "product_name": "Shock Belakang Motor Honda Genuine Parts",
+   "category": "Spare part motor",
+   "unit_terjual": 177.0,
+   "omzet_bersih": 51125300.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "BNC-0027",
+   "product_name": "Bridgestone 265/65R17",
+   "category": "Ban mobil",
+   "unit_terjual": 30.0,
+   "omzet_bersih": 49266000.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "AKI-0008",
+   "product_name": "Aki GS Astra Mobil 12V 55Ah",
+   "category": "Aki",
+   "unit_terjual": 47.0,
+   "omzet_bersih": 48222000.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "SPC-0012",
+   "product_name": "Shockbreaker Depan Mobil Aftermarket",
+   "category": "Spare part mobil",
+   "unit_terjual": 106.0,
+   "omzet_bersih": 48105000.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "AKI-0012",
+   "product_name": "Aki Incoe Mobil 12V 60Ah",
+   "category": "Aki",
+   "unit_terjual": 49.0,
+   "omzet_bersih": 45525900.0,
+   "kelas_abc": "A"
+  },
+  {
+   "product_id": "BNC-0030",
+   "product_name": "Achilles 265/65R17",
+   "category": "Ban mobil",
+   "unit_terjual": 36.0,
+   "omzet_bersih": 44959900.0,
+   "kelas_abc": "A"
+  }
+ ],
+ "diskon_per_jenis_pelanggan_kategori": [
+  {
+   "customer_type": "keluarga",
+   "category": "Aki",
+   "omzet_kotor": 9275000,
+   "diskon": 736800,
+   "diskon_standar_maks": 742000.0,
+   "baris": 13,
+   "baris_berdiskon": 13,
+   "diskon_efektif_pct": 7.94,
+   "batas_standar_pct": 8.0,
+   "pemakaian_batas_pct": 99.3,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "keluarga",
+   "category": "Aksesori kendaraan",
+   "omzet_kotor": 6101500,
+   "diskon": 299200,
+   "diskon_standar_maks": 305075.0,
+   "baris": 30,
+   "baris_berdiskon": 30,
+   "diskon_efektif_pct": 4.9,
+   "batas_standar_pct": 5.0,
+   "pemakaian_batas_pct": 98.1,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "keluarga",
+   "category": "Ban mobil",
+   "omzet_kotor": 19600000,
+   "diskon": 1960000,
+   "diskon_standar_maks": 1960000.0,
+   "baris": 8,
+   "baris_berdiskon": 8,
+   "diskon_efektif_pct": 10.0,
+   "batas_standar_pct": 10.0,
+   "pemakaian_batas_pct": 100.0,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "keluarga",
+   "category": "Ban motor",
+   "omzet_kotor": 17854000,
+   "diskon": 2102500,
+   "diskon_standar_maks": 2142480.0,
+   "baris": 54,
+   "baris_berdiskon": 54,
+   "diskon_efektif_pct": 11.78,
+   "batas_standar_pct": 12.0,
+   "pemakaian_batas_pct": 98.1,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "keluarga",
+   "category": "Oli",
+   "omzet_kotor": 15766000,
+   "diskon": 1860200,
+   "diskon_standar_maks": 1891920.0,
+   "baris": 71,
+   "baris_berdiskon": 71,
+   "diskon_efektif_pct": 11.8,
+   "batas_standar_pct": 12.0,
+   "pemakaian_batas_pct": 98.3,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "keluarga",
+   "category": "Perlengkapan otomotif lainnya",
+   "omzet_kotor": 927500,
+   "diskon": 45600,
+   "diskon_standar_maks": 46375.0,
+   "baris": 19,
+   "baris_berdiskon": 19,
+   "diskon_efektif_pct": 4.92,
+   "batas_standar_pct": 5.0,
+   "pemakaian_batas_pct": 98.3,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "keluarga",
+   "category": "Spare part mobil",
+   "omzet_kotor": 8659000,
+   "diskon": 1756800,
+   "diskon_standar_maks": 1790000.0,
+   "baris": 21,
+   "baris_berdiskon": 21,
+   "diskon_efektif_pct": 20.29,
+   "batas_standar_pct": 20.67,
+   "pemakaian_batas_pct": 98.1,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "keluarga",
+   "category": "Spare part motor",
+   "omzet_kotor": 6349000,
+   "diskon": 1457800,
+   "diskon_standar_maks": 1473725.0,
+   "baris": 53,
+   "baris_berdiskon": 53,
+   "diskon_efektif_pct": 22.96,
+   "batas_standar_pct": 23.21,
+   "pemakaian_batas_pct": 98.9,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "pemerintah",
+   "category": "Aki",
+   "omzet_kotor": 9560000,
+   "diskon": 564400,
+   "diskon_standar_maks": 764800.0,
+   "baris": 5,
+   "baris_berdiskon": 5,
+   "diskon_efektif_pct": 5.9,
+   "batas_standar_pct": 8.0,
+   "pemakaian_batas_pct": 73.8,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "pemerintah",
+   "category": "Ban mobil",
+   "omzet_kotor": 131020000,
+   "diskon": 9126000,
+   "diskon_standar_maks": 13102000.0,
+   "baris": 34,
+   "baris_berdiskon": 34,
+   "diskon_efektif_pct": 6.97,
+   "batas_standar_pct": 10.0,
+   "pemakaian_batas_pct": 69.7,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "pemerintah",
+   "category": "Oli",
+   "omzet_kotor": 22488000,
+   "diskon": 1902900,
+   "diskon_standar_maks": 2698560.0,
+   "baris": 27,
+   "baris_berdiskon": 27,
+   "diskon_efektif_pct": 8.46,
+   "batas_standar_pct": 12.0,
+   "pemakaian_batas_pct": 70.5,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "pemerintah",
+   "category": "Perlengkapan otomotif lainnya",
+   "omzet_kotor": 3501000,
+   "diskon": 130300,
+   "diskon_standar_maks": 175050.0,
+   "baris": 20,
+   "baris_berdiskon": 20,
+   "diskon_efektif_pct": 3.72,
+   "batas_standar_pct": 5.0,
+   "pemakaian_batas_pct": 74.4,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "pemerintah",
+   "category": "Spare part mobil",
+   "omzet_kotor": 48946000,
+   "diskon": 7417500,
+   "diskon_standar_maks": 10070000.0,
+   "baris": 49,
+   "baris_berdiskon": 49,
+   "diskon_efektif_pct": 15.15,
+   "batas_standar_pct": 20.57,
+   "pemakaian_batas_pct": 73.7,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Aki",
+   "omzet_kotor": 110635000,
+   "diskon": 8825300,
+   "diskon_standar_maks": 8850800.0,
+   "baris": 90,
+   "baris_berdiskon": 90,
+   "diskon_efektif_pct": 7.98,
+   "batas_standar_pct": 8.0,
+   "pemakaian_batas_pct": 99.7,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Aksesori kendaraan",
+   "omzet_kotor": 14158000,
+   "diskon": 707500,
+   "diskon_standar_maks": 707900.0,
+   "baris": 36,
+   "baris_berdiskon": 36,
+   "diskon_efektif_pct": 5.0,
+   "batas_standar_pct": 5.0,
+   "pemakaian_batas_pct": 99.9,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Ban mobil",
+   "omzet_kotor": 110280000,
+   "diskon": 10973200,
+   "diskon_standar_maks": 11028000.0,
+   "baris": 39,
+   "baris_berdiskon": 39,
+   "diskon_efektif_pct": 9.95,
+   "batas_standar_pct": 10.0,
+   "pemakaian_batas_pct": 99.5,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Ban motor",
+   "omzet_kotor": 104714000,
+   "diskon": 12338500,
+   "diskon_standar_maks": 12565680.0,
+   "baris": 225,
+   "baris_berdiskon": 225,
+   "diskon_efektif_pct": 11.78,
+   "batas_standar_pct": 12.0,
+   "pemakaian_batas_pct": 98.2,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Oli",
+   "omzet_kotor": 596790500,
+   "diskon": 69720500,
+   "diskon_standar_maks": 71614860.0,
+   "baris": 631,
+   "baris_berdiskon": 631,
+   "diskon_efektif_pct": 11.68,
+   "batas_standar_pct": 12.0,
+   "pemakaian_batas_pct": 97.4,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Perlengkapan otomotif lainnya",
+   "omzet_kotor": 29074000,
+   "diskon": 1445000,
+   "diskon_standar_maks": 1453700.0,
+   "baris": 126,
+   "baris_berdiskon": 126,
+   "diskon_efektif_pct": 4.97,
+   "batas_standar_pct": 5.0,
+   "pemakaian_batas_pct": 99.4,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Spare part mobil",
+   "omzet_kotor": 162566000,
+   "diskon": 33309900,
+   "diskon_standar_maks": 34023000.0,
+   "baris": 151,
+   "baris_berdiskon": 151,
+   "diskon_efektif_pct": 20.49,
+   "batas_standar_pct": 20.93,
+   "pemakaian_batas_pct": 97.9,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "rekanan",
+   "category": "Spare part motor",
+   "omzet_kotor": 216777000,
+   "diskon": 47646600,
+   "diskon_standar_maks": 48593550.0,
+   "baris": 652,
+   "baris_berdiskon": 652,
+   "diskon_efektif_pct": 21.98,
+   "batas_standar_pct": 22.42,
+   "pemakaian_batas_pct": 98.1,
+   "share_baris_berdiskon_pct": 100.0
+  },
+  {
+   "customer_type": "umum",
+   "category": "Aki",
+   "omzet_kotor": 124650000,
+   "diskon": 2592000,
+   "diskon_standar_maks": 9972000.0,
+   "baris": 197,
+   "baris_berdiskon": 78,
+   "diskon_efektif_pct": 2.08,
+   "batas_standar_pct": 8.0,
+   "pemakaian_batas_pct": 26.0,
+   "share_baris_berdiskon_pct": 39.6
+  },
+  {
+   "customer_type": "umum",
+   "category": "Aksesori kendaraan",
+   "omzet_kotor": 65392000,
+   "diskon": 748700,
+   "diskon_standar_maks": 3269600.0,
+   "baris": 319,
+   "baris_berdiskon": 126,
+   "diskon_efektif_pct": 1.14,
+   "batas_standar_pct": 5.0,
+   "pemakaian_batas_pct": 22.9,
+   "share_baris_berdiskon_pct": 39.5
+  },
+  {
+   "customer_type": "umum",
+   "category": "Ban mobil",
+   "omzet_kotor": 244170000,
+   "diskon": 5401800,
+   "diskon_standar_maks": 24417000.0,
+   "baris": 99,
+   "baris_berdiskon": 40,
+   "diskon_efektif_pct": 2.21,
+   "batas_standar_pct": 10.0,
+   "pemakaian_batas_pct": 22.1,
+   "share_baris_berdiskon_pct": 40.4
+  },
+  {
+   "customer_type": "umum",
+   "category": "Ban motor",
+   "omzet_kotor": 184616500,
+   "diskon": 5573900,
+   "diskon_standar_maks": 22153980.0,
+   "baris": 502,
+   "baris_berdiskon": 209,
+   "diskon_efektif_pct": 3.02,
+   "batas_standar_pct": 12.0,
+   "pemakaian_batas_pct": 25.2,
+   "share_baris_berdiskon_pct": 41.6
+  },
+  {
+   "customer_type": "umum",
+   "category": "Oli",
+   "omzet_kotor": 165358000,
+   "diskon": 4696500,
+   "diskon_standar_maks": 19842960.0,
+   "baris": 904,
+   "baris_berdiskon": 359,
+   "diskon_efektif_pct": 2.84,
+   "batas_standar_pct": 12.0,
+   "pemakaian_batas_pct": 23.7,
+   "share_baris_berdiskon_pct": 39.7
+  },
+  {
+   "customer_type": "umum",
+   "category": "Perlengkapan otomotif lainnya",
+   "omzet_kotor": 28461500,
+   "diskon": 312100,
+   "diskon_standar_maks": 1423075.0,
+   "baris": 264,
+   "baris_berdiskon": 101,
+   "diskon_efektif_pct": 1.1,
+   "batas_standar_pct": 5.0,
+   "pemakaian_batas_pct": 21.9,
+   "share_baris_berdiskon_pct": 38.3
+  },
+  {
+   "customer_type": "umum",
+   "category": "Spare part mobil",
+   "omzet_kotor": 79549000,
+   "diskon": 5435200,
+   "diskon_standar_maks": 17040600.0,
+   "baris": 182,
+   "baris_berdiskon": 82,
+   "diskon_efektif_pct": 6.83,
+   "batas_standar_pct": 21.42,
+   "pemakaian_batas_pct": 31.9,
+   "share_baris_berdiskon_pct": 45.1
+  },
+  {
+   "customer_type": "umum",
+   "category": "Spare part motor",
+   "omzet_kotor": 99416500,
+   "diskon": 5632100,
+   "diskon_standar_maks": 22340975.0,
+   "baris": 725,
+   "baris_berdiskon": 297,
+   "diskon_efektif_pct": 5.67,
+   "batas_standar_pct": 22.47,
+   "pemakaian_batas_pct": 25.2,
+   "share_baris_berdiskon_pct": 41.0
+  }
+ ],
+ "margin_per_kategori": [
+  {
+   "category": "Aksesori kendaraan",
+   "omzet_bersih": 83896100,
+   "laba_kotor": 28797600,
+   "margin_pct": 34.33
+  },
+  {
+   "category": "Perlengkapan otomotif lainnya",
+   "omzet_bersih": 60031000,
+   "laba_kotor": 17054000,
+   "margin_pct": 28.41
+  },
+  {
+   "category": "Spare part motor",
+   "omzet_bersih": 267806000,
+   "laba_kotor": 66749500,
+   "margin_pct": 24.92
+  },
+  {
+   "category": "Spare part mobil",
+   "omzet_bersih": 251800600,
+   "laba_kotor": 61411100,
+   "margin_pct": 24.39
+  },
+  {
+   "category": "Aki",
+   "omzet_bersih": 241401500,
+   "laba_kotor": 38149500,
+   "margin_pct": 15.8
+  },
+  {
+   "category": "Ban motor",
+   "omzet_bersih": 287169600,
+   "laba_kotor": 41261100,
+   "margin_pct": 14.37
+  },
+  {
+   "category": "Ban mobil",
+   "omzet_bersih": 477609000,
+   "laba_kotor": 63409500,
+   "margin_pct": 13.28
+  },
+  {
+   "category": "Oli",
+   "omzet_bersih": 722222400,
+   "laba_kotor": 82075400,
+   "margin_pct": 11.36
+  }
+ ],
+ "ringkasan_restock": [
+  {
+   "branch_name": "Jalan Nenas",
+   "status_restock": "Aman",
+   "jumlah_produk": 155
+  },
+  {
+   "branch_name": "Jalan Nenas",
+   "status_restock": "Habis",
+   "jumlah_produk": 2
+  },
+  {
+   "branch_name": "Jalan Nenas",
+   "status_restock": "Restock segera",
+   "jumlah_produk": 11
+  },
+  {
+   "branch_name": "Jalan Nenas",
+   "status_restock": "Waspada",
+   "jumlah_produk": 52
+  },
+  {
+   "branch_name": "Padang Kerta",
+   "status_restock": "Aman",
+   "jumlah_produk": 204
+  },
+  {
+   "branch_name": "Padang Kerta",
+   "status_restock": "Habis",
+   "jumlah_produk": 1
+  },
+  {
+   "branch_name": "Padang Kerta",
+   "status_restock": "Restock segera",
+   "jumlah_produk": 31
+  },
+  {
+   "branch_name": "Padang Kerta",
+   "status_restock": "Waspada",
+   "jumlah_produk": 89
+  },
+  {
+   "branch_name": "Paye",
+   "status_restock": "Aman",
+   "jumlah_produk": 188
+  },
+  {
+   "branch_name": "Paye",
+   "status_restock": "Restock segera",
+   "jumlah_produk": 10
+  },
+  {
+   "branch_name": "Paye",
+   "status_restock": "Waspada",
+   "jumlah_produk": 55
+  }
+ ],
+ "peringatan_stok_teratas": [
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "BNC-0002",
+   "product_name": "GT Radial 175/65R14",
+   "category": "Ban mobil",
+   "stok_sekarang": 0,
+   "minimum_stock": 1,
+   "rata2_permintaan_harian": 0.07,
+   "hari_cakupan_stok": 0.0,
+   "titik_pesan": 3,
+   "status_restock": "Habis",
+   "saran_jumlah_pesan": 4,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "SPM-0011",
+   "product_name": "Busi Motor Aftermarket",
+   "category": "Spare part motor",
+   "stok_sekarang": 0,
+   "minimum_stock": 5,
+   "rata2_permintaan_harian": 0.36,
+   "hari_cakupan_stok": 0.0,
+   "titik_pesan": 7,
+   "status_restock": "Habis",
+   "saran_jumlah_pesan": 10,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPC-0022",
+   "product_name": "Kampas Kopling Set Mobil Aftermarket",
+   "category": "Spare part mobil",
+   "stok_sekarang": 0,
+   "minimum_stock": 2,
+   "rata2_permintaan_harian": 0.11,
+   "hari_cakupan_stok": 0.0,
+   "titik_pesan": 3,
+   "status_restock": "Habis",
+   "saran_jumlah_pesan": 4,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "SPM-0003",
+   "product_name": "Kampas Rem Belakang Motor Yamaha Genuine Parts",
+   "category": "Spare part motor",
+   "stok_sekarang": 2,
+   "minimum_stock": 10,
+   "rata2_permintaan_harian": 0.71,
+   "hari_cakupan_stok": 2.8,
+   "titik_pesan": 10,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 13,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "SPM-0039",
+   "product_name": "Karet Footstep Motor Honda Genuine Parts",
+   "category": "Spare part motor",
+   "stok_sekarang": 2,
+   "minimum_stock": 7,
+   "rata2_permintaan_harian": 0.43,
+   "hari_cakupan_stok": 4.7,
+   "titik_pesan": 7,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 8,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "OLI-0037",
+   "product_name": "Pertamina Fastron Diesel 6 L",
+   "category": "Oli",
+   "stok_sekarang": 12,
+   "minimum_stock": 19,
+   "rata2_permintaan_harian": 1.46,
+   "hari_cakupan_stok": 8.2,
+   "titik_pesan": 19,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 18,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "OLI-0030",
+   "product_name": "Shell Helix Diesel 6 L",
+   "category": "Oli",
+   "stok_sekarang": 23,
+   "minimum_stock": 20,
+   "rata2_permintaan_harian": 2.57,
+   "hari_cakupan_stok": 8.9,
+   "titik_pesan": 28,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 23,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "LNY-0001",
+   "product_name": "Coolant 1 L",
+   "category": "Perlengkapan otomotif lainnya",
+   "stok_sekarang": 6,
+   "minimum_stock": 12,
+   "rata2_permintaan_harian": 0.64,
+   "hari_cakupan_stok": 9.3,
+   "titik_pesan": 12,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 11,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "OLI-0044",
+   "product_name": "Total Quartz Semi Sintetis 1 L",
+   "category": "Oli",
+   "stok_sekarang": 10,
+   "minimum_stock": 8,
+   "rata2_permintaan_harian": 0.64,
+   "hari_cakupan_stok": 15.6,
+   "titik_pesan": 10,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 5,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "SPM-0036",
+   "product_name": "Kampas Kopling Set Motor Honda Genuine Parts",
+   "category": "Spare part motor",
+   "stok_sekarang": 7,
+   "minimum_stock": 9,
+   "rata2_permintaan_harian": 0.39,
+   "hari_cakupan_stok": 17.8,
+   "titik_pesan": 9,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 5,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "SPM-0040",
+   "product_name": "Karet Footstep Motor Aftermarket",
+   "category": "Spare part motor",
+   "stok_sekarang": 7,
+   "minimum_stock": 8,
+   "rata2_permintaan_harian": 0.29,
+   "hari_cakupan_stok": 24.5,
+   "titik_pesan": 8,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 3,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "BNC-0008",
+   "product_name": "Bridgestone 185/65R15",
+   "category": "Ban mobil",
+   "stok_sekarang": 3,
+   "minimum_stock": 2,
+   "rata2_permintaan_harian": 0.07,
+   "hari_cakupan_stok": 42.0,
+   "titik_pesan": 3,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 1,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "BNM-0183",
+   "product_name": "IRC Ban Dalam RIM 14 (80/90-14)",
+   "category": "Ban motor",
+   "stok_sekarang": 5,
+   "minimum_stock": 5,
+   "rata2_permintaan_harian": 0.07,
+   "hari_cakupan_stok": 70.0,
+   "titik_pesan": 5,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 1,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR02",
+   "branch_name": "Jalan Nenas",
+   "product_id": "LNY-0007",
+   "product_name": "Lakban Listrik",
+   "category": "Perlengkapan otomotif lainnya",
+   "stok_sekarang": 5,
+   "minimum_stock": 6,
+   "rata2_permintaan_harian": 0.07,
+   "hari_cakupan_stok": 70.0,
+   "titik_pesan": 6,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 2,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "LNY-0009",
+   "product_name": "Pompa Ban Manual",
+   "category": "Perlengkapan otomotif lainnya",
+   "stok_sekarang": 1,
+   "minimum_stock": 9,
+   "rata2_permintaan_harian": 0.57,
+   "hari_cakupan_stok": 1.8,
+   "titik_pesan": 9,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 12,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPM-0014",
+   "product_name": "Roller Set Motor Federal Parts",
+   "category": "Spare part motor",
+   "stok_sekarang": 2,
+   "minimum_stock": 6,
+   "rata2_permintaan_harian": 0.61,
+   "hari_cakupan_stok": 3.3,
+   "titik_pesan": 7,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 10,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPM-0001",
+   "product_name": "Kampas Rem Depan Motor Yamaha Genuine Parts",
+   "category": "Spare part motor",
+   "stok_sekarang": 5,
+   "minimum_stock": 8,
+   "rata2_permintaan_harian": 1.0,
+   "hari_cakupan_stok": 5.0,
+   "titik_pesan": 10,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 12,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPC-0013",
+   "product_name": "Tie Rod End Mobil Bosch",
+   "category": "Spare part mobil",
+   "stok_sekarang": 3,
+   "minimum_stock": 6,
+   "rata2_permintaan_harian": 0.43,
+   "hari_cakupan_stok": 7.0,
+   "titik_pesan": 6,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 6,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPC-0004",
+   "product_name": "Filter Oli Mobil Bosch",
+   "category": "Spare part mobil",
+   "stok_sekarang": 5,
+   "minimum_stock": 5,
+   "rata2_permintaan_harian": 0.57,
+   "hari_cakupan_stok": 8.8,
+   "titik_pesan": 7,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 6,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPM-0012",
+   "product_name": "Filter Udara Motor Yamaha Genuine Parts",
+   "category": "Spare part motor",
+   "stok_sekarang": 8,
+   "minimum_stock": 7,
+   "rata2_permintaan_harian": 0.86,
+   "hari_cakupan_stok": 9.3,
+   "titik_pesan": 10,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 8,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "OLI-0043",
+   "product_name": "Total Quartz Mineral 1 L",
+   "category": "Oli",
+   "stok_sekarang": 23,
+   "minimum_stock": 18,
+   "rata2_permintaan_harian": 2.43,
+   "hari_cakupan_stok": 9.5,
+   "titik_pesan": 24,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 18,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "OLI-0018",
+   "product_name": "Shell Advance Full Synthetic 0.8 L",
+   "category": "Oli",
+   "stok_sekarang": 33,
+   "minimum_stock": 15,
+   "rata2_permintaan_harian": 3.29,
+   "hari_cakupan_stok": 10.0,
+   "titik_pesan": 33,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 23,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "AKI-0012",
+   "product_name": "Aki Incoe Mobil 12V 60Ah",
+   "category": "Aki",
+   "stok_sekarang": 6,
+   "minimum_stock": 4,
+   "rata2_permintaan_harian": 0.57,
+   "hari_cakupan_stok": 10.5,
+   "titik_pesan": 6,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 4,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "BNC-0017",
+   "product_name": "Bridgestone 205/55R16",
+   "category": "Ban mobil",
+   "stok_sekarang": 2,
+   "minimum_stock": 1,
+   "rata2_permintaan_harian": 0.18,
+   "hari_cakupan_stok": 11.2,
+   "titik_pesan": 3,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 3,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "OLI-0038",
+   "product_name": "TOP 1 Mineral 1 L",
+   "category": "Oli",
+   "stok_sekarang": 10,
+   "minimum_stock": 12,
+   "rata2_permintaan_harian": 0.89,
+   "hari_cakupan_stok": 11.2,
+   "titik_pesan": 12,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 9,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPC-0008",
+   "product_name": "Filter Bensin Mobil NGK",
+   "category": "Spare part mobil",
+   "stok_sekarang": 4,
+   "minimum_stock": 5,
+   "rata2_permintaan_harian": 0.32,
+   "hari_cakupan_stok": 12.4,
+   "titik_pesan": 5,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 4,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "SPM-0039",
+   "product_name": "Karet Footstep Motor Honda Genuine Parts",
+   "category": "Spare part motor",
+   "stok_sekarang": 4,
+   "minimum_stock": 7,
+   "rata2_permintaan_harian": 0.32,
+   "hari_cakupan_stok": 12.4,
+   "titik_pesan": 7,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 6,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "AKI-0008",
+   "product_name": "Aki GS Astra Mobil 12V 55Ah",
+   "category": "Aki",
+   "stok_sekarang": 5,
+   "minimum_stock": 3,
+   "rata2_permintaan_harian": 0.39,
+   "hari_cakupan_stok": 12.7,
+   "titik_pesan": 5,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 3,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "AKI-0011",
+   "product_name": "Aki Massiv Mobil 12V 55Ah",
+   "category": "Aki",
+   "stok_sekarang": 2,
+   "minimum_stock": 2,
+   "rata2_permintaan_harian": 0.14,
+   "hari_cakupan_stok": 14.0,
+   "titik_pesan": 3,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 2,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  },
+  {
+   "branch_id": "BR01",
+   "branch_name": "Padang Kerta",
+   "product_id": "AKI-0004",
+   "product_name": "Aki Yuasa Motor 12V 5Ah",
+   "category": "Aki",
+   "stok_sekarang": 3,
+   "minimum_stock": 4,
+   "rata2_permintaan_harian": 0.18,
+   "hari_cakupan_stok": 16.8,
+   "titik_pesan": 4,
+   "status_restock": "Restock segera",
+   "saran_jumlah_pesan": 3,
+   "asumsi_lead_time_hari": 3,
+   "tanggal_data_stok": "2026-10-31",
+   "data_source": "synthetic"
+  }
+ ],
+ "prediksi_permintaan_mingguan": [
+  {
+   "branch_id": "BR01",
+   "category": "Aki",
+   "week_start": "2026-10-26",
+   "forecast_units": 15.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-10-26",
+   "forecast_units": 17.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban mobil",
+   "week_start": "2026-10-26",
+   "forecast_units": 22.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban motor",
+   "week_start": "2026-10-26",
+   "forecast_units": 43.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Oli",
+   "week_start": "2026-10-26",
+   "forecast_units": 301.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-10-26",
+   "forecast_units": 34.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part mobil",
+   "week_start": "2026-10-26",
+   "forecast_units": 41.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part motor",
+   "week_start": "2026-10-26",
+   "forecast_units": 145.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aki",
+   "week_start": "2026-10-26",
+   "forecast_units": 4.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-10-26",
+   "forecast_units": 8.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban mobil",
+   "week_start": "2026-10-26",
+   "forecast_units": 6.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban motor",
+   "week_start": "2026-10-26",
+   "forecast_units": 15.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Oli",
+   "week_start": "2026-10-26",
+   "forecast_units": 85.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-10-26",
+   "forecast_units": 18.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part mobil",
+   "week_start": "2026-10-26",
+   "forecast_units": 16.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part motor",
+   "week_start": "2026-10-26",
+   "forecast_units": 46.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aki",
+   "week_start": "2026-10-26",
+   "forecast_units": 8.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-10-26",
+   "forecast_units": 15.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban mobil",
+   "week_start": "2026-10-26",
+   "forecast_units": 20.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban motor",
+   "week_start": "2026-10-26",
+   "forecast_units": 20.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Oli",
+   "week_start": "2026-10-26",
+   "forecast_units": 167.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-10-26",
+   "forecast_units": 19.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part mobil",
+   "week_start": "2026-10-26",
+   "forecast_units": 22.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part motor",
+   "week_start": "2026-10-26",
+   "forecast_units": 91.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Aki",
+   "week_start": "2026-11-02",
+   "forecast_units": 16.6,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-02",
+   "forecast_units": 18.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban mobil",
+   "week_start": "2026-11-02",
+   "forecast_units": 19.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban motor",
+   "week_start": "2026-11-02",
+   "forecast_units": 43.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Oli",
+   "week_start": "2026-11-02",
+   "forecast_units": 285.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-02",
+   "forecast_units": 35.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-02",
+   "forecast_units": 42.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part motor",
+   "week_start": "2026-11-02",
+   "forecast_units": 137.3,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aki",
+   "week_start": "2026-11-02",
+   "forecast_units": 5.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-02",
+   "forecast_units": 9.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban mobil",
+   "week_start": "2026-11-02",
+   "forecast_units": 7.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban motor",
+   "week_start": "2026-11-02",
+   "forecast_units": 15.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Oli",
+   "week_start": "2026-11-02",
+   "forecast_units": 92.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-02",
+   "forecast_units": 16.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-02",
+   "forecast_units": 15.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part motor",
+   "week_start": "2026-11-02",
+   "forecast_units": 47.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aki",
+   "week_start": "2026-11-02",
+   "forecast_units": 7.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-02",
+   "forecast_units": 14.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban mobil",
+   "week_start": "2026-11-02",
+   "forecast_units": 23.7,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban motor",
+   "week_start": "2026-11-02",
+   "forecast_units": 18.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Oli",
+   "week_start": "2026-11-02",
+   "forecast_units": 159.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-02",
+   "forecast_units": 18.6,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-02",
+   "forecast_units": 21.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part motor",
+   "week_start": "2026-11-02",
+   "forecast_units": 86.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Aki",
+   "week_start": "2026-11-09",
+   "forecast_units": 15.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-09",
+   "forecast_units": 18.3,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban mobil",
+   "week_start": "2026-11-09",
+   "forecast_units": 17.4,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban motor",
+   "week_start": "2026-11-09",
+   "forecast_units": 44.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Oli",
+   "week_start": "2026-11-09",
+   "forecast_units": 296.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-09",
+   "forecast_units": 36.4,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-09",
+   "forecast_units": 41.4,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part motor",
+   "week_start": "2026-11-09",
+   "forecast_units": 153.4,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aki",
+   "week_start": "2026-11-09",
+   "forecast_units": 4.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-09",
+   "forecast_units": 8.6,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban mobil",
+   "week_start": "2026-11-09",
+   "forecast_units": 4.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban motor",
+   "week_start": "2026-11-09",
+   "forecast_units": 13.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Oli",
+   "week_start": "2026-11-09",
+   "forecast_units": 88.7,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-09",
+   "forecast_units": 15.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-09",
+   "forecast_units": 15.7,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part motor",
+   "week_start": "2026-11-09",
+   "forecast_units": 39.6,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aki",
+   "week_start": "2026-11-09",
+   "forecast_units": 7.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-09",
+   "forecast_units": 15.6,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban mobil",
+   "week_start": "2026-11-09",
+   "forecast_units": 21.6,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban motor",
+   "week_start": "2026-11-09",
+   "forecast_units": 19.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Oli",
+   "week_start": "2026-11-09",
+   "forecast_units": 151.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-09",
+   "forecast_units": 18.8,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-09",
+   "forecast_units": 20.3,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part motor",
+   "week_start": "2026-11-09",
+   "forecast_units": 89.3,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Aki",
+   "week_start": "2026-11-16",
+   "forecast_units": 15.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-16",
+   "forecast_units": 18.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban mobil",
+   "week_start": "2026-11-16",
+   "forecast_units": 17.7,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Ban motor",
+   "week_start": "2026-11-16",
+   "forecast_units": 43.6,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Oli",
+   "week_start": "2026-11-16",
+   "forecast_units": 308.4,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-16",
+   "forecast_units": 35.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-16",
+   "forecast_units": 41.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR01",
+   "category": "Spare part motor",
+   "week_start": "2026-11-16",
+   "forecast_units": 146.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Padang Kerta"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aki",
+   "week_start": "2026-11-16",
+   "forecast_units": 4.7,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-16",
+   "forecast_units": 8.5,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban mobil",
+   "week_start": "2026-11-16",
+   "forecast_units": 6.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Ban motor",
+   "week_start": "2026-11-16",
+   "forecast_units": 14.3,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Oli",
+   "week_start": "2026-11-16",
+   "forecast_units": 96.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-16",
+   "forecast_units": 17.7,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-16",
+   "forecast_units": 15.4,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR02",
+   "category": "Spare part motor",
+   "week_start": "2026-11-16",
+   "forecast_units": 43.2,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Jalan Nenas"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aki",
+   "week_start": "2026-11-16",
+   "forecast_units": 7.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Aksesori kendaraan",
+   "week_start": "2026-11-16",
+   "forecast_units": 15.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban mobil",
+   "week_start": "2026-11-16",
+   "forecast_units": 22.0,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Ban motor",
+   "week_start": "2026-11-16",
+   "forecast_units": 16.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Oli",
+   "week_start": "2026-11-16",
+   "forecast_units": 158.1,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Perlengkapan otomotif lainnya",
+   "week_start": "2026-11-16",
+   "forecast_units": 19.7,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part mobil",
+   "week_start": "2026-11-16",
+   "forecast_units": 21.9,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  },
+  {
+   "branch_id": "BR03",
+   "category": "Spare part motor",
+   "week_start": "2026-11-16",
+   "forecast_units": 85.4,
+   "model": "Rata-rata 4 minggu",
+   "branch_name": "Paye"
+  }
+ ],
+ "perbandingan_model_prediksi": [
+  {
+   "model": "Rata-rata 4 minggu",
+   "MAE": 12.04,
+   "RMSE": 19.5,
+   "WAPE_pct": 25.14,
+   "terbaik": true
+  },
+  {
+   "model": "Linear Regression (lag + seri)",
+   "MAE": 14.15,
+   "RMSE": 25.01,
+   "WAPE_pct": 29.55,
+   "terbaik": false
+  },
+  {
+   "model": "Random Forest (lag + seri)",
+   "MAE": 15.0,
+   "RMSE": 26.32,
+   "WAPE_pct": 31.32,
+   "terbaik": false
+  },
+  {
+   "model": "Naive (minggu lalu)",
+   "MAE": 18.32,
+   "RMSE": 32.55,
+   "WAPE_pct": 38.24,
+   "terbaik": false
+  }
+ ]
+}

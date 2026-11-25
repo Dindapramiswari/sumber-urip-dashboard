@@ -1,0 +1,36 @@
+penerima,file,baris,kolom,tujuan
+Full-stack,for_fullstack/seed/branches.csv,3,6,master cabang
+Full-stack,for_fullstack/seed/products.csv,390,12,katalog produk (TANPA harga modal) untuk kasir & pemilik
+Full-stack,for_fullstack/seed/product_costs_OWNER_ONLY.csv,390,2,harga modal; HANYA boleh diakses peran pemilik
+Full-stack,for_fullstack/seed/customers.csv,23,6,master pelanggan/bengkel rekanan (fiktif) + partner_fee_pct
+Full-stack,for_fullstack/seed/inventory_current.csv,798,5,stok terkini per cabang-produk (stok awal aplikasi)
+Full-stack,for_fullstack/seed/transactions_history.csv,2797,14,"riwayat transaksi sintetis 3 bulan (opsional, untuk demo/dashboard)"
+Full-stack,for_fullstack/seed/transaction_details_history.csv,5546,10,detail riwayat transaksi sintetis (opsional)
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,4,8,perilaku diskon per jenis pelanggan (untuk mesin harga)
+Full-stack,for_fullstack/seed/discount_limit_by_category.csv,8,5,batas diskon standar per kategori
+Full-stack,for_fullstack/dashboard_data/kpi_summary.csv,14,2,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/sales_by_category.csv,8,6,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,9,7,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/sales_by_day.csv,275,5,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/sales_category_by_branch.csv,8,4,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/top_products.csv,10,6,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,390,11,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,29,11,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/margin_by_category.csv,8,4,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/margin_by_customer_type.csv,4,5,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/weekday_pattern.csv,21,4,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,798,9,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,798,15,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/demand_forecast.csv,96,6,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/weekly_demand_history.csv,288,5,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/model_comparison.csv,4,5,data dasbor/analisis
+Full-stack,for_fullstack/dashboard_data/dashboard_summary.json,11,0,satu file JSON berisi seluruh hasil analisis untuk endpoint dasbor
+Gen AI,for_genai/product_alias_dictionary.csv,1577,6,alias nama produk -> product_id (normalisasi entitas produk)
+Gen AI,for_genai/branch_aliases.csv,17,2,"alias nama cabang -> branch_id (sebagian alias adalah dugaan, perlu dikonfirmasi)"
+Gen AI,for_genai/customer_type_aliases.csv,17,2,alias jenis pelanggan
+Gen AI,for_genai/intent_dataset.csv,2519,10,"dataset klasifikasi intent berlabel + entitas, dengan kolom split"
+Gen AI,for_genai/intent_labels.csv,4,4,definisi label intent
+Gen AI,for_genai/knowledge_base_products.csv,390,8,dokumen per produk untuk RAG (tanpa stok & harga modal)
+Gen AI,for_genai/discount_rules_by_customer_type.csv,4,8,aturan diskon (untuk menjawab pertanyaan diskon)
+Gen AI,for_genai/discount_limit_by_category.csv,8,5,batas diskon per kategori
+Gen AI,for_genai/inventory_current_for_answers.csv,798,4,"stok terkini (jawaban cek_stok sebaiknya via API backend, ini hanya contoh)"

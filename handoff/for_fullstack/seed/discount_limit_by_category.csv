@@ -1,0 +1,9 @@
+category,batas_standar_min_pct,batas_standar_maks_pct,sumber_aturan,catatan
+Aki,8,8,simulation_assumption,
+Aksesori kendaraan,5,5,simulation_assumption,
+Ban mobil,10,10,owner_info,
+Ban motor,12,12,owner_info,
+Oli,12,12,owner_info,
+Perlengkapan otomotif lainnya,5,5,simulation_assumption,
+Spare part mobil,20,25,owner_info,20% atau 25% ditentukan per produk (kolom products.discount_percentage); aturan pemilik belum merinci kapan 20/25
+Spare part motor,20,25,owner_info,20% atau 25% ditentukan per produk (kolom products.discount_percentage); aturan pemilik belum merinci kapan 20/25

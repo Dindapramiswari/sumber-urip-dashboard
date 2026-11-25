@@ -1,0 +1,223 @@
+penerima,file,kolom,tipe,contoh,deskripsi
+Full-stack,for_fullstack/seed/branches.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/seed/branches.csv,branch_name,str,Padang Kerta,Nama cabang
+Full-stack,for_fullstack/seed/branches.csv,location,str,Padang Kerta,
+Full-stack,for_fullstack/seed/branches.csv,opened_year,int64,1999,
+Full-stack,for_fullstack/seed/branches.csv,is_synthetic,bool,False,
+Full-stack,for_fullstack/seed/branches.csv,data_source,str,interview_notes,synthetic = data simulasi
+Full-stack,for_fullstack/seed/products.csv,product_id,str,BNM-0001,ID produk (PK)
+Full-stack,for_fullstack/seed/products.csv,product_name,str,IRC NF 59 70/90-14 Tubetype,Nama produk baku
+Full-stack,for_fullstack/seed/products.csv,category,str,Ban motor,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/seed/products.csv,subcategory,str,ban luar tubetype,Subkategori
+Full-stack,for_fullstack/seed/products.csv,brand,str,IRC,Merek
+Full-stack,for_fullstack/seed/products.csv,size_spec,str,70/90-14,Ukuran/spesifikasi
+Full-stack,for_fullstack/seed/products.csv,selling_price,int64,192000,Harga jual daftar (Rp)
+Full-stack,for_fullstack/seed/products.csv,discount_percentage,int64,12,Batas diskon standar produk (%)
+Full-stack,for_fullstack/seed/products.csv,minimum_stock,int64,3,Batas stok minimum (unit)
+Full-stack,for_fullstack/seed/products.csv,is_synthetic,bool,True,
+Full-stack,for_fullstack/seed/products.csv,selling_price_source,str,pricelist_irc_het_2026-06-15 (transkripsi foto),
+Full-stack,for_fullstack/seed/products.csv,discount_rule_source,str,owner_info,
+Full-stack,for_fullstack/seed/product_costs_OWNER_ONLY.csv,product_id,str,BNM-0001,ID produk (PK)
+Full-stack,for_fullstack/seed/product_costs_OWNER_ONLY.csv,cost_price,int64,155000,"Harga modal (Rp) - RAHASIA, hanya pemilik"
+Full-stack,for_fullstack/seed/customers.csv,customer_id,str,CUS-0000,ID pelanggan
+Full-stack,for_fullstack/seed/customers.csv,customer_type,str,umum,umum / rekanan / keluarga / pemerintah
+Full-stack,for_fullstack/seed/customers.csv,customer_name,str,"Pelanggan Umum (ANONIM, sintetis)",
+Full-stack,for_fullstack/seed/customers.csv,preferred_branch_id,str,BR03,
+Full-stack,for_fullstack/seed/customers.csv,partner_fee_pct,float64,0.0,Fee bengkel rekanan kecil (0.05 = 5%)
+Full-stack,for_fullstack/seed/customers.csv,data_source,str,synthetic,synthetic = data simulasi
+Full-stack,for_fullstack/seed/inventory_current.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/seed/inventory_current.csv,product_id,str,ACC-0001,ID produk (PK)
+Full-stack,for_fullstack/seed/inventory_current.csv,stock_qty,int64,10,Jumlah stok
+Full-stack,for_fullstack/seed/inventory_current.csv,as_of_date,str,2026-10-31,Tanggal data stok
+Full-stack,for_fullstack/seed/inventory_current.csv,minimum_stock,int64,7,Batas stok minimum (unit)
+Full-stack,for_fullstack/seed/transactions_history.csv,transaction_id,str,TRX-BR01-20260801-001,ID transaksi
+Full-stack,for_fullstack/seed/transactions_history.csv,transaction_date,str,2026-08-01,
+Full-stack,for_fullstack/seed/transactions_history.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/seed/transactions_history.csv,transaction_type,str,retail,
+Full-stack,for_fullstack/seed/transactions_history.csv,customer_type,str,umum,umum / rekanan / keluarga / pemerintah
+Full-stack,for_fullstack/seed/transactions_history.csv,customer_id,str,CUS-0000,ID pelanggan
+Full-stack,for_fullstack/seed/transactions_history.csv,total_items,int64,2,
+Full-stack,for_fullstack/seed/transactions_history.csv,gross_amount,int64,543500,Omzet kotor (Rp)
+Full-stack,for_fullstack/seed/transactions_history.csv,discount_amount,int64,10900,Total diskon (Rp)
+Full-stack,for_fullstack/seed/transactions_history.csv,net_amount,int64,532600,Omzet bersih transaksi (Rp)
+Full-stack,for_fullstack/seed/transactions_history.csv,total_cost,int64,377000,
+Full-stack,for_fullstack/seed/transactions_history.csv,other_cost,int64,0,Fee bengkel rekanan (Rp)
+Full-stack,for_fullstack/seed/transactions_history.csv,gross_profit,int64,155600,Laba kotor setelah fee (Rp)
+Full-stack,for_fullstack/seed/transactions_history.csv,data_source,str,synthetic,synthetic = data simulasi
+Full-stack,for_fullstack/seed/transaction_details_history.csv,detail_id,str,DTL-000001,ID baris detail
+Full-stack,for_fullstack/seed/transaction_details_history.csv,transaction_id,str,TRX-BR01-20260801-001,ID transaksi
+Full-stack,for_fullstack/seed/transaction_details_history.csv,product_id,str,ACC-0008,ID produk (PK)
+Full-stack,for_fullstack/seed/transaction_details_history.csv,quantity,int64,1,Jumlah
+Full-stack,for_fullstack/seed/transaction_details_history.csv,unit_price,int64,325500,Harga satuan (Rp)
+Full-stack,for_fullstack/seed/transaction_details_history.csv,discount,int64,0,
+Full-stack,for_fullstack/seed/transaction_details_history.csv,discount_percentage_applied,float64,0.0,
+Full-stack,for_fullstack/seed/transaction_details_history.csv,subtotal,int64,325500,Omzet bersih baris (Rp)
+Full-stack,for_fullstack/seed/transaction_details_history.csv,cost_subtotal,int64,205000,
+Full-stack,for_fullstack/seed/transaction_details_history.csv,profit,int64,120500,
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,customer_type,str,umum,umum / rekanan / keluarga / pemerintah
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,mode_diskon,str,negosiasi,
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,default_pct_dari_batas,int64,0,
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,maks_pct_dari_batas,int64,100,
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,catatan,str,Tanpa diskon bawaan; kasir boleh memberi diskon sampai batas,
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,pemakaian_batas_pct,float64,24.9,
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,baris_berdiskon_pct,float64,40.6,
+Full-stack,for_fullstack/seed/discount_rules_by_customer_type.csv,status_aturan,str,ASUMSI SIMULASI - perlu konfirmasi pemilik,
+Full-stack,for_fullstack/seed/discount_limit_by_category.csv,category,str,Aki,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/seed/discount_limit_by_category.csv,batas_standar_min_pct,int64,8,
+Full-stack,for_fullstack/seed/discount_limit_by_category.csv,batas_standar_maks_pct,int64,8,
+Full-stack,for_fullstack/seed/discount_limit_by_category.csv,sumber_aturan,str,simulation_assumption,
+Full-stack,for_fullstack/seed/discount_limit_by_category.csv,catatan,str,20% atau 25% ditentukan per produk (kolom products.discount_,
+Full-stack,for_fullstack/dashboard_data/kpi_summary.csv,metrik,str,periode_awal,
+Full-stack,for_fullstack/dashboard_data/kpi_summary.csv,nilai,str,2026-08-01,
+Full-stack,for_fullstack/dashboard_data/sales_by_category.csv,category,str,Oli,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/sales_by_category.csv,omzet_bersih,int64,722222400,Omzet bersih (Rp)
+Full-stack,for_fullstack/dashboard_data/sales_by_category.csv,omzet_kotor,int64,800402500,
+Full-stack,for_fullstack/dashboard_data/sales_by_category.csv,unit_terjual,int64,6709,
+Full-stack,for_fullstack/dashboard_data/sales_by_category.csv,jumlah_baris,int64,1633,
+Full-stack,for_fullstack/dashboard_data/sales_by_category.csv,share_omzet_pct,float64,30.2,
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,month,str,2026-08,
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,jumlah_transaksi,int64,444,Jumlah transaksi
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,omzet_bersih,int64,384045500,Omzet bersih (Rp)
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,laba_kotor,int64,56814000,
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,diskon,int64,40237000,
+Full-stack,for_fullstack/dashboard_data/sales_by_branch_month.csv,branch_name,str,Padang Kerta,Nama cabang
+Full-stack,for_fullstack/dashboard_data/sales_by_day.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/dashboard_data/sales_by_day.csv,transaction_date,str,2026-08-01,
+Full-stack,for_fullstack/dashboard_data/sales_by_day.csv,jumlah_transaksi,int64,14,Jumlah transaksi
+Full-stack,for_fullstack/dashboard_data/sales_by_day.csv,omzet_bersih,int64,22237000,Omzet bersih (Rp)
+Full-stack,for_fullstack/dashboard_data/sales_by_day.csv,branch_name,str,Padang Kerta,Nama cabang
+Full-stack,for_fullstack/dashboard_data/sales_category_by_branch.csv,category,str,Aki,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/sales_category_by_branch.csv,Jalan Nenas,int64,57111700,
+Full-stack,for_fullstack/dashboard_data/sales_category_by_branch.csv,Padang Kerta,int64,119532700,
+Full-stack,for_fullstack/dashboard_data/sales_category_by_branch.csv,Paye,int64,64757100,
+Full-stack,for_fullstack/dashboard_data/top_products.csv,product_id,str,OLI-0030,ID produk (PK)
+Full-stack,for_fullstack/dashboard_data/top_products.csv,product_name,str,Shell Helix Diesel 6 L,Nama produk baku
+Full-stack,for_fullstack/dashboard_data/top_products.csv,category,str,Oli,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/top_products.csv,unit_terjual,float64,267.0,
+Full-stack,for_fullstack/dashboard_data/top_products.csv,omzet_bersih,float64,113551000.0,Omzet bersih (Rp)
+Full-stack,for_fullstack/dashboard_data/top_products.csv,kelas_abc,str,A,
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,product_id,str,OLI-0030,ID produk (PK)
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,product_name,str,Shell Helix Diesel 6 L,Nama produk baku
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,category,str,Oli,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,unit_terjual,float64,267.0,
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,jumlah_baris,float64,63.0,
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,hari_terjual,float64,47.0,
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,omzet_bersih,float64,113551000.0,Omzet bersih (Rp)
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,laba_kotor_baris,float64,16096000.0,
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,pctl_dalam_kategori,float64,0.8222222222222222,
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,pergerakan,str,fast-moving,
+Full-stack,for_fullstack/dashboard_data/product_movement.csv,kelas_abc,str,A,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,customer_type,str,keluarga,umum / rekanan / keluarga / pemerintah
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,category,str,Aki,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,omzet_kotor,int64,9275000,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,diskon,int64,736800,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,diskon_standar_maks,float64,742000.0,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,baris,int64,13,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,baris_berdiskon,int64,13,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,diskon_efektif_pct,float64,7.94,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,batas_standar_pct,float64,8.0,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,pemakaian_batas_pct,float64,99.3,
+Full-stack,for_fullstack/dashboard_data/discount_analysis.csv,share_baris_berdiskon_pct,float64,100.0,
+Full-stack,for_fullstack/dashboard_data/margin_by_category.csv,category,str,Aksesori kendaraan,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/margin_by_category.csv,omzet_bersih,int64,83896100,Omzet bersih (Rp)
+Full-stack,for_fullstack/dashboard_data/margin_by_category.csv,laba_kotor,int64,28797600,
+Full-stack,for_fullstack/dashboard_data/margin_by_category.csv,margin_pct,float64,34.33,
+Full-stack,for_fullstack/dashboard_data/margin_by_customer_type.csv,customer_type,str,keluarga,umum / rekanan / keluarga / pemerintah
+Full-stack,for_fullstack/dashboard_data/margin_by_customer_type.csv,omzet_bersih,int64,74313100,Omzet bersih (Rp)
+Full-stack,for_fullstack/dashboard_data/margin_by_customer_type.csv,laba_kotor,int64,10300100,
+Full-stack,for_fullstack/dashboard_data/margin_by_customer_type.csv,fee,int64,0,
+Full-stack,for_fullstack/dashboard_data/margin_by_customer_type.csv,margin_pct,float64,13.86,
+Full-stack,for_fullstack/dashboard_data/weekday_pattern.csv,branch_name,str,Jalan Nenas,Nama cabang
+Full-stack,for_fullstack/dashboard_data/weekday_pattern.csv,hari,str,Senin,
+Full-stack,for_fullstack/dashboard_data/weekday_pattern.csv,rata2_transaksi,float64,5.846153846153846,
+Full-stack,for_fullstack/dashboard_data/weekday_pattern.csv,rata2_omzet,float64,4202676.923076923,
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,branch_name,str,Padang Kerta,Nama cabang
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,product_id,str,ACC-0001,ID produk (PK)
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,product_name,str,Spion Motor,Nama produk baku
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,category,str,Aksesori kendaraan,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,stok_akhir,int64,10,
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,minimum_stock,int64,7,Batas stok minimum (unit)
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,status_stok,str,aman,
+Full-stack,for_fullstack/dashboard_data/stock_status.csv,stock_date,str,2026-10-31,
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,branch_id,str,BR02,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,branch_name,str,Jalan Nenas,Nama cabang
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,product_id,str,BNC-0002,ID produk (PK)
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,product_name,str,GT Radial 175/65R14,Nama produk baku
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,category,str,Ban mobil,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,stok_sekarang,int64,0,Stok terkini
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,minimum_stock,int64,1,Batas stok minimum (unit)
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,rata2_permintaan_harian,float64,0.07,
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,hari_cakupan_stok,float64,0.0,
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,titik_pesan,int64,3,Reorder point (unit)
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,status_restock,str,Habis,Habis / Restock segera / Waspada / Aman
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,saran_jumlah_pesan,int64,4,Saran jumlah pesan ke pemasok (unit)
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,asumsi_lead_time_hari,int64,3,
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,tanggal_data_stok,str,2026-10-31,
+Full-stack,for_fullstack/dashboard_data/restock_recommendation.csv,data_source,str,synthetic,synthetic = data simulasi
+Full-stack,for_fullstack/dashboard_data/demand_forecast.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/dashboard_data/demand_forecast.csv,category,str,Aki,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/demand_forecast.csv,week_start,str,2026-10-26,Senin awal minggu
+Full-stack,for_fullstack/dashboard_data/demand_forecast.csv,forecast_units,float64,15.5,Prediksi unit terjual per minggu
+Full-stack,for_fullstack/dashboard_data/demand_forecast.csv,model,str,Rata-rata 4 minggu,
+Full-stack,for_fullstack/dashboard_data/demand_forecast.csv,branch_name,str,Padang Kerta,Nama cabang
+Full-stack,for_fullstack/dashboard_data/weekly_demand_history.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Full-stack,for_fullstack/dashboard_data/weekly_demand_history.csv,category,str,Aki,Kategori produk (8 nilai baku)
+Full-stack,for_fullstack/dashboard_data/weekly_demand_history.csv,week_start,str,2026-08-03,Senin awal minggu
+Full-stack,for_fullstack/dashboard_data/weekly_demand_history.csv,units,int64,25,
+Full-stack,for_fullstack/dashboard_data/weekly_demand_history.csv,branch_name,str,Padang Kerta,Nama cabang
+Full-stack,for_fullstack/dashboard_data/model_comparison.csv,model,str,Rata-rata 4 minggu,
+Full-stack,for_fullstack/dashboard_data/model_comparison.csv,MAE,float64,12.04,
+Full-stack,for_fullstack/dashboard_data/model_comparison.csv,RMSE,float64,19.5,
+Full-stack,for_fullstack/dashboard_data/model_comparison.csv,WAPE_pct,float64,25.14,
+Full-stack,for_fullstack/dashboard_data/model_comparison.csv,terbaik,bool,True,
+Gen AI,for_genai/product_alias_dictionary.csv,product_id,str,BNM-0001,ID produk (PK)
+Gen AI,for_genai/product_alias_dictionary.csv,canonical_name,str,IRC NF 59 70/90-14 Tubetype,
+Gen AI,for_genai/product_alias_dictionary.csv,category,str,Ban motor,Kategori produk (8 nilai baku)
+Gen AI,for_genai/product_alias_dictionary.csv,brand,str,IRC,Merek
+Gen AI,for_genai/product_alias_dictionary.csv,alias,str,ban irc 70/90-14 nf 59,Cara lain menyebut produk/cabang
+Gen AI,for_genai/product_alias_dictionary.csv,alias_type,str,ban irc ukuran,Jenis alias
+Gen AI,for_genai/branch_aliases.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Gen AI,for_genai/branch_aliases.csv,alias,str,padang kerta,Cara lain menyebut produk/cabang
+Gen AI,for_genai/customer_type_aliases.csv,customer_type,str,umum,umum / rekanan / keluarga / pemerintah
+Gen AI,for_genai/customer_type_aliases.csv,alias,str,umum,Cara lain menyebut produk/cabang
+Gen AI,for_genai/intent_dataset.csv,id,str,INT-00001,
+Gen AI,for_genai/intent_dataset.csv,text,str,ada diskon untuk cover motor?,Kalimat pertanyaan
+Gen AI,for_genai/intent_dataset.csv,intent,str,tanya_diskon,Label intent
+Gen AI,for_genai/intent_dataset.csv,template_id,str,tanya_diskon_T01,ID template pembuat kalimat (untuk split anti-kebocoran)
+Gen AI,for_genai/intent_dataset.csv,entity_product_id,str,ACC-0003,Produk yang disebut (jika ada)
+Gen AI,for_genai/intent_dataset.csv,entity_branch_id,str,BR02,Cabang yang disebut (jika ada)
+Gen AI,for_genai/intent_dataset.csv,entity_customer_type,str,keluarga,Jenis pelanggan yang disebut (jika ada)
+Gen AI,for_genai/intent_dataset.csv,domain,str,in_domain,in_domain / out_of_domain
+Gen AI,for_genai/intent_dataset.csv,split,str,train,train / val / test
+Gen AI,for_genai/intent_dataset.csv,source,str,synthetic_template,
+Gen AI,for_genai/intent_labels.csv,intent,str,tanya_harga,Label intent
+Gen AI,for_genai/intent_labels.csv,deskripsi,str,Menanyakan harga barang,
+Gen AI,for_genai/intent_labels.csv,contoh,str,harga oli yamalube matic berapa?,
+Gen AI,for_genai/intent_labels.csv,jumlah_contoh,int64,744,
+Gen AI,for_genai/knowledge_base_products.csv,doc_id,str,KB-BNM-0001,ID dokumen RAG
+Gen AI,for_genai/knowledge_base_products.csv,product_id,str,BNM-0001,ID produk (PK)
+Gen AI,for_genai/knowledge_base_products.csv,text,str,IRC NF 59 70/90-14 Tubetype adalah produk kategori Ban motor,Kalimat pertanyaan
+Gen AI,for_genai/knowledge_base_products.csv,category,str,Ban motor,Kategori produk (8 nilai baku)
+Gen AI,for_genai/knowledge_base_products.csv,brand,str,IRC,Merek
+Gen AI,for_genai/knowledge_base_products.csv,selling_price,int64,192000,Harga jual daftar (Rp)
+Gen AI,for_genai/knowledge_base_products.csv,discount_percentage,int64,12,Batas diskon standar produk (%)
+Gen AI,for_genai/knowledge_base_products.csv,data_source,str,synthetic,synthetic = data simulasi
+Gen AI,for_genai/discount_rules_by_customer_type.csv,customer_type,str,umum,umum / rekanan / keluarga / pemerintah
+Gen AI,for_genai/discount_rules_by_customer_type.csv,mode_diskon,str,negosiasi,
+Gen AI,for_genai/discount_rules_by_customer_type.csv,default_pct_dari_batas,int64,0,
+Gen AI,for_genai/discount_rules_by_customer_type.csv,maks_pct_dari_batas,int64,100,
+Gen AI,for_genai/discount_rules_by_customer_type.csv,catatan,str,Tanpa diskon bawaan; kasir boleh memberi diskon sampai batas,
+Gen AI,for_genai/discount_rules_by_customer_type.csv,pemakaian_batas_pct,float64,24.9,
+Gen AI,for_genai/discount_rules_by_customer_type.csv,baris_berdiskon_pct,float64,40.6,
+Gen AI,for_genai/discount_rules_by_customer_type.csv,status_aturan,str,ASUMSI SIMULASI - perlu konfirmasi pemilik,
+Gen AI,for_genai/discount_limit_by_category.csv,category,str,Aki,Kategori produk (8 nilai baku)
+Gen AI,for_genai/discount_limit_by_category.csv,batas_standar_min_pct,int64,8,
+Gen AI,for_genai/discount_limit_by_category.csv,batas_standar_maks_pct,int64,8,
+Gen AI,for_genai/discount_limit_by_category.csv,sumber_aturan,str,simulation_assumption,
+Gen AI,for_genai/discount_limit_by_category.csv,catatan,str,20% atau 25% ditentukan per produk (kolom products.discount_,
+Gen AI,for_genai/inventory_current_for_answers.csv,branch_id,str,BR01,"ID cabang (BR01 Padang Kerta, BR02 Jalan Nenas, BR03 Paye)"
+Gen AI,for_genai/inventory_current_for_answers.csv,product_id,str,ACC-0001,ID produk (PK)
+Gen AI,for_genai/inventory_current_for_answers.csv,stock_qty,int64,10,Jumlah stok
+Gen AI,for_genai/inventory_current_for_answers.csv,as_of_date,str,2026-10-31,Tanggal data stok

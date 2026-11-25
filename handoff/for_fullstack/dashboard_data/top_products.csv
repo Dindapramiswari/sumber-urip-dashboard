@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_terjual,omzet_bersih,kelas_abc
+OLI-0030,Shell Helix Diesel 6 L,Oli,267.0,113551000.0,A
+OLI-0037,Pertamina Fastron Diesel 6 L,Oli,251.0,79469300.0,A
+OLI-0036,Pertamina Fastron Full Sintetis 4 L,Oli,150.0,66742500.0,A
+SPC-0011,Shockbreaker Depan Mobil Bosch,Spare part mobil,79.0,55972200.0,A
+SPM-0032,Shock Belakang Motor Honda Genuine Parts,Spare part motor,177.0,51125300.0,A
+BNC-0027,Bridgestone 265/65R17,Ban mobil,30.0,49266000.0,A
+AKI-0008,Aki GS Astra Mobil 12V 55Ah,Aki,47.0,48222000.0,A
+SPC-0012,Shockbreaker Depan Mobil Aftermarket,Spare part mobil,106.0,48105000.0,A
+AKI-0012,Aki Incoe Mobil 12V 60Ah,Aki,49.0,45525900.0,A
+BNC-0030,Achilles 265/65R17,Ban mobil,36.0,44959900.0,A

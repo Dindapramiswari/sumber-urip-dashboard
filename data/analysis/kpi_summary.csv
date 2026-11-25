@@ -1,0 +1,15 @@
+metrik,nilai
+periode_awal,2026-08-01
+periode_akhir,2026-10-31
+jumlah_transaksi,2797
+unit_terjual,14628
+omzet_kotor,2636655000
+total_diskon,244718800
+omzet_bersih,2391936200
+laba_kotor,357811300
+margin_laba_kotor_pct,14.96
+diskon_efektif_pct,9.28
+rata2_nilai_transaksi,855179
+total_fee_rekanan,41096400
+produk_stok_menipis_atau_habis,38
+sumber_data,synthetic

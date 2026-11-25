@@ -1,0 +1,5 @@
+customer_type,mode_diskon,default_pct_dari_batas,maks_pct_dari_batas,catatan,pemakaian_batas_pct,baris_berdiskon_pct,status_aturan
+umum,negosiasi,0,100,Tanpa diskon bawaan; kasir boleh memberi diskon sampai batas standar produk bila pelanggan menawar.,24.9,40.6,ASUMSI SIMULASI - perlu konfirmasi pemilik
+rekanan,otomatis,100,100,"Diskon penuh sesuai batas standar produk. Fee bengkel rekanan kecil (customers.partner_fee_pct = 5%) dicatat sebagai biaya toko (other_cost), BUKAN diskon.",98.8,100.0,ASUMSI SIMULASI - perlu konfirmasi pemilik
+keluarga,otomatis,100,100,Mengikuti harga rekanan. Kasus 'gratis' / harga khusus hanya boleh diset oleh pemilik dengan catatan alasan.,98.6,100.0,ASUMSI SIMULASI - perlu konfirmasi pemilik
+pemerintah,negosiasi,75,100,Pembelian via INAPROC dengan harga hasil negosiasi; cukup dicatat sebagai tipe pelanggan (tanpa integrasi INAPROC).,72.4,100.0,ASUMSI SIMULASI - perlu konfirmasi pemilik

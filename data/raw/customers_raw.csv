@@ -1,0 +1,27 @@
+customer_id,customer_type,customer_name,preferred_branch_id,partner_fee_pct,data_source
+CUS-0000,umum,"PELANGGAN UMUM (ANONIM, SINTETIS)",,0.0,synthetic
+CUS-0001,rekanan,  Bengkel Rekanan 01 (sintetis) ,BR03,0.0,synthetic
+CUS-0002,rekanan,Bengkel Reaknan 02 (sintetis),BR02,0.05,synthetic
+CUS-0003,rekanan,Bengkel Rekanan 03 (Sintetis),BR02,0.05,synthetic
+CUS-0004,rekanan,Bengkel Rekanan 40 (sintetis),BR01,0.05,synthetic
+CUS-0005,,  Bengkel Rekanan 05 (sintetis) ,BR01,0.0,synthetic
+CUS-0006,rekanan,  Bengkel Rekanan 06 (sintetis) ,BR03,0.05,synthetic
+CUS-0007,rekanan,Bengkel Reaknan 07 (sintetis),BR03,0.05,synthetic
+CUS-0008,rekanan,  Bengkel Rekanan 08 (sintetis) ,BR01,0.05,synthetic
+CUS-0009,rekanan,Bengkel Reaknan 09 (sintetis),BR02,0.05,synthetic
+CUS-0010,rekanan,Bengkel  Rekanan 10 (sintetis),BR01,0.05,synthetic
+CUS-0011,rekanan,bengkel rekanan 11 (sintetis),BR02,0.05,synthetic
+CUS-0012,rekanan,BENGKEL REKANAN 12 (SINTETIS),BR01,0.0,synthetic
+CUS-0013,rekanan,  Bengkel Rekanan 13 (sintetis) ,BR03,0.05,synthetic
+CUS-0014,rekanan,Bengkel Rekanan 14 (Sintetis),BR02,0.0,synthetic
+CUS-0015,pemerintah,"  Instansi Pemerintah Contoh 01 (INAPROC, sintetis) ",BR01,0.0,synthetic
+CUS-0016,pemerintah,"INSTANSI PEMERINTAH CONTOH 02 (INAPROC, SINTETIS)",BR01,0.0,synthetic
+CUS-0017,pemerintah,"Instansi  Pemerintah Contoh 03 (INAPROC, sintetis)",BR01,0.0,synthetic
+CUS-0018,keluarga,KELUARGA PEMILIK CONTOH 01 (SINTETIS),BR02,0.0,synthetic
+CUS-0019,,keluarga pemilik contoh 02 (sintetis),BR03,0.0,synthetic
+CUS-0020,keluarga,Keluarga  Pemilik Contoh 03 (sintetis),BR01,0.0,synthetic
+CUS-0021,keluarga,  Keluarga Pemilik Contoh 04 (sintetis) ,BR02,0.0,synthetic
+CUS-0022,keluarga,Keluarga Pemilik oCntoh 05 (sintetis),BR01,0.0,synthetic
+CUS-0003B,rekanan,Bengkel Rekanan 03 (Sintetis),BR02,0.05,synthetic
+CUS-0015B,pemerintah,"  Instansi Pemerintah Contoh 01 (INAPROC, sintetis) ",BR01,0.0,synthetic
+CUS-0018B,keluarga,KELUARGA PEMILIK CONTOH 01 (SINTETIS),BR02,0.0,synthetic

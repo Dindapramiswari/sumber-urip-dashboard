@@ -1,0 +1,4 @@
+branch_id,branch_name,location,opened_year,is_synthetic,data_source
+BR01,Padang Kerta,Padang Kerta,1999,False,interview_notes
+BR02,Jalan Nenas,Jalan Nenas,2024,False,interview_notes
+BR03,Paye,Paye,2014,False,interview_notes

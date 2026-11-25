@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pyc
+.DS_Store
+# kunci jawaban latihan sebaiknya tidak ikut repositori publik:
+_kunci_jawaban/
